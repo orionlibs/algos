@@ -16,10 +16,11 @@ public class Problem12
     {
         int numberOfDivisors = 500;
         int order = Integer.MAX_VALUE;
+        long triangleNumber = 0;
         
         for(int i = 1; i <= order; i++)
         {
-            long triangleNumber = TriangleNumber.getTriangleNumber(i);
+            triangleNumber += i;
             
             if(NumberFactors.getNumberOfFactors(triangleNumber) >= numberOfDivisors)
             {
