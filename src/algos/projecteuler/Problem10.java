@@ -13,11 +13,11 @@ public class Problem10
     
     private static long solve()
     {
-        long sum = 0;
+        long sum = 2;
         
-        for(int i = 2; i < 2000000; i++)
+        for(int i = 3; i < 2000000; i++)
         {
-            if(BigInteger.valueOf(i).isProbablePrime(100))
+            if(i % 2 != 0 && BigInteger.valueOf(i).isProbablePrime(50))
             {
                 sum += i;
             }
