@@ -1,0 +1,12 @@
+**/.DS_Store
+!**/.settings
+!**/.project
+!**/.classpath
+**/target
+**/bin
+!**/orion_devtools/.settings
+!**/orion_devtools/.project
+!**/orion_devtools/.classpath
+!**/iods_devtools/.settings
+!**/iods_devtools/.project
+!**/iods_devtools/.classpath
