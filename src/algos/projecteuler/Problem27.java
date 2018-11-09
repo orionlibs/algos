@@ -1,6 +1,5 @@
 package algos.projecteuler;
 
-import java.math.BigInteger;
 import algos.reusable.PrimeNumber;
 
 //Quadratic primes = https://projecteuler.net/problem=27
