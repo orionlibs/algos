@@ -1,5 +1,7 @@
 package algos.projecteuler;
 
+import java.util.stream.IntStream;
+
 //Multiples of 3 and 5 = https://projecteuler.net/problem=1
 public class Problem1
 {
@@ -11,16 +13,6 @@ public class Problem1
     
     private static long solve()
     {
-        long sum = 0L;
-        
-        for(int i = 1; i < 1000; i++)
-        {
-            if(i % 3 == 0 || i % 5 == 0)
-            {
-                sum += i;
-            }
-        }
-        
-        return sum;
+        return IntStream.range(1, 1000).filter(i -> i % 3 == 0 || i % 5 == 0).reduce((i, j) -> i + j).getAsInt();
     }
 }
