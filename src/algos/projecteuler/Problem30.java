@@ -22,10 +22,7 @@ public class Problem30
                 powerSum += (long)Math.pow(Long.parseLong(String.valueOf(digit)), 5);
             }
             
-            if(powerSum == i)
-            {
-                sum += i;
-            }
+            sum = (powerSum == i) ? sum + i : sum;
         }
         
         return sum;

@@ -28,8 +28,7 @@ public class Problem26
             while(foundRemainders[value] == 0 && value != 0)
             {
                 foundRemainders[value] = position;
-                value *= 10;
-                value %= i;
+                value = (value * 10) % i;
                 position++;
             }
 
