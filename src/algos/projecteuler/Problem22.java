@@ -3,6 +3,7 @@ package algos.projecteuler;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import org.apache.commons.io.IOUtils;
@@ -27,13 +28,7 @@ public class Problem22
         try
         {
             String namesString = IOUtils.toString(namesStream);
-            String[] namesTokens = namesString.split(",");
-            
-            for(String name : namesTokens)
-            {
-                names.add(name.replace("\"", ""));
-            }
-            
+            Arrays.stream(namesString.split(",")).forEach(name -> names.add(name.replace("\"", "")));
             Collections.sort(names);
             int alphabeticalValue = 0;
             

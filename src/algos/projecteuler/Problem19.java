@@ -20,10 +20,7 @@ public class Problem19
         {
             for(int j = 1; j <= 12; j++)
             {
-                if(LocalDateTime.of(i, j, 1, 0, 0).getDayOfWeek() == DayOfWeek.SUNDAY)
-                {
-                    ++numberOfSundays;
-                }
+                numberOfSundays = (LocalDateTime.of(i, j, 1, 0, 0).getDayOfWeek() == DayOfWeek.SUNDAY) ? numberOfSundays + 1 : numberOfSundays;
             }
         }
         

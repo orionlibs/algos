@@ -2,6 +2,7 @@ package algos.projecteuler;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.IntStream;
 import algos.reusable.DivisorsOfNumber;
 import algos.reusable.SumOfNumbers;
 
@@ -18,23 +19,15 @@ public class Problem23
     {
         long sum = 0;
         List<Integer> abundantNumbers = new ArrayList<Integer>();
-        
-        for(int i = 2; i <= 28123; i++)
-        {
-            List<Long> divisors = DivisorsOfNumber.getDivisors(i);
-            long sumOfDivisors = SumOfNumbers.getSum(divisors);
-            
-            if(sumOfDivisors > i)
-            {
-                abundantNumbers.add(i);
-            }
-        }
+        IntStream.range(2, 28124)
+        .filter(i -> SumOfNumbers.getSum(DivisorsOfNumber.getDivisors(i)) > i)
+        .forEach(i -> abundantNumbers.add(i));
         
         for(int i = 1; i <= 28123; i++)
         {
             boolean found = false;
             
-            loop1 : for(int j = 0; j < abundantNumbers.size() - 1; j++)
+    loop1 : for(int j = 0; j < abundantNumbers.size() - 1; j++)
             {
                 for(int k = j; k < abundantNumbers.size(); k++)
                 {
@@ -46,10 +39,7 @@ public class Problem23
                 }
             }
             
-            if(!found)
-            {
-                sum += i;
-            }
+            sum = (!found) ? sum + i : sum;
         }
         
         return sum;
