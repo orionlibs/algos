@@ -1,8 +1,8 @@
 package algos.projecteuler;
 
-import java.math.BigInteger;
-import java.util.stream.IntStream;
-import java.util.stream.LongStream;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.atomic.AtomicLong;
 
 //Largest prime factor = https://projecteuler.net/problem=3
 public class Problem3
@@ -15,16 +15,14 @@ public class Problem3
     
     private static long solve()
     {
-        long primeFactor = 0L;
+        AtomicLong primeFactor = new AtomicLong(0);
+        ExecutorService executorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors());
         
         for(long i = 2; i < Math.sqrt(600851475143L); i++)
         {
-            if(600851475143L % i == 0 && BigInteger.valueOf(i).isProbablePrime(1))
-            {
-                primeFactor = i;
-            }
+            executorService.execute(new Problem3Task(primeFactor, i));
         }
         
-        return primeFactor;
+        return primeFactor.get();
     }
 }

@@ -34,8 +34,9 @@ public class Problem32
                                     && allDigits.contains("8") && allDigits.contains("9"))
                     {
                         sum.add(product);
-                        products.add(product);
                     }
+                    
+                    products.add(product);
                 }
             }
         }
