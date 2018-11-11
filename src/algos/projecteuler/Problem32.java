@@ -17,11 +17,19 @@ public class Problem32
     {
         BigInteger sum = BigInteger.ZERO;
         Set<BigInteger> products = new HashSet<BigInteger>();
+        int iterations = 0;
         
         for(int i = 11110; i < 31427; i++)
         {
             for(int j = 11110; j < 31427; j++)
             {
+                ++iterations;
+                
+                if(iterations % 1000000 == 0)
+                {
+                    System.out.println(iterations / 1000000);
+                }
+                
                 BigInteger product = BigInteger.valueOf(i).multiply(BigInteger.valueOf(j));
                 
                 if(!products.contains(product))

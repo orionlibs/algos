@@ -18,7 +18,7 @@ public class Problem7
         
         while(true)
         {
-            if(BigInteger.valueOf(i).isProbablePrime(1))
+            if(BigInteger.valueOf(i).isProbablePrime(50))
             {
                 ++primeIndex;
                 
