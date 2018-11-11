@@ -1,7 +1,6 @@
 package algos.projecteuler;
 
 import algos.reusable.NumberFactors;
-import algos.reusable.TriangleNumber;
 
 //Highly divisible triangular number = https://projecteuler.net/problem=12
 public class Problem12

@@ -12,6 +12,6 @@ public class PrimeNumber
     
     public static boolean isPrimeNumber(long x)
     {
-        return BigInteger.valueOf(x).isProbablePrime(50);
+        return isPrimeNumber(BigInteger.valueOf(x));
     }
 }

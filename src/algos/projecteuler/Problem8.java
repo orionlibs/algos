@@ -30,10 +30,7 @@ public class Problem8
                             * Long.parseLong(Character.toString(x.charAt(i + 11)))
                             * Long.parseLong(Character.toString(x.charAt(i + 12)));
             
-            if(temp > max)
-            {
-                max = temp;
-            }
+            max = (temp > max) ? temp : max;
         }
         
         return max;

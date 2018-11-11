@@ -4,7 +4,7 @@ import java.util.List;
 
 public class SumOfNumbers
 {
-    public static long getSum(List<Integer> numbers)
+    public static long getSum(List<Long> numbers)
     {
         if(numbers.isEmpty())
         {

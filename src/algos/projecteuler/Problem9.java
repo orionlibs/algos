@@ -17,6 +17,11 @@ public class Problem9
             {
                 for(int k = j + 1; k < 999; k++)
                 {
+                    if(i + j + k > 1000)
+                    {
+                        continue;
+                    }
+                    
                     if(((i * i) + (j * j) == (k * k)) && i + j + k == 1000)
                     {
                         return i * j * k;

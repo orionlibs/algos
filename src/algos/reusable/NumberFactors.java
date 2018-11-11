@@ -1,19 +1,11 @@
 package algos.reusable;
 
+import java.util.stream.LongStream;
+
 public class NumberFactors
 {
-    public static int getNumberOfFactors(long x)
+    public static long getNumberOfFactors(long x)
     {
-        int numberOfFactors = 0;
-        
-        for(long i = 1; i <= x; i++)
-        {
-            if(x % i == 0)
-            {
-                ++numberOfFactors;
-            }
-        }
-        
-        return numberOfFactors;
+        return LongStream.range(1, x + 1).filter(i -> x % i == 0).count();
     }
 }

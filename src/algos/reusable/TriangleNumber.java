@@ -1,16 +1,11 @@
 package algos.reusable;
 
+import java.util.stream.IntStream;
+
 public class TriangleNumber
 {
     public static long getTriangleNumber(int order)
     {
-        long triangleNumber = 0;
-        
-        for(int i = 1; i <= order; i++)
-        {
-            triangleNumber += i;
-        }
-        
-        return triangleNumber;
+        return IntStream.range(1, order + 1).reduce((i, j) -> i + j).getAsInt();
     }
 }

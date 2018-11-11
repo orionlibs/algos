@@ -21,7 +21,7 @@ public class Problem23
         
         for(int i = 2; i <= 28123; i++)
         {
-            List<Integer> divisors = DivisorsOfNumber.getDivisors(i);
+            List<Long> divisors = DivisorsOfNumber.getDivisors(i);
             long sumOfDivisors = SumOfNumbers.getSum(divisors);
             
             if(sumOfDivisors > i)
