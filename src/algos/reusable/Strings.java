@@ -6,4 +6,10 @@ public class Strings
     {
         return s1.equals(new StringBuilder(s2).reverse().toString());
     }
+    
+    
+    public static boolean isPalindrome(String s)
+    {
+        return s.equals(new StringBuilder(s).reverse().toString());
+    }
 }

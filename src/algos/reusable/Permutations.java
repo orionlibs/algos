@@ -5,17 +5,9 @@ import java.util.List;
 
 public class Permutations
 {
-    private List<String> permutations;
-    
-    
-    public Permutations()
+    public static List<String> permuteString(String string, int start, int end) 
     {
-        this.permutations = new ArrayList<String>();
-    }
-    
-    
-    public String permuteString(String string, int start, int end) 
-    {
+        List<String> permutations = new ArrayList<String>();
         String result = string.intern();
         
         if(start != end)
@@ -32,28 +24,16 @@ public class Permutations
             permutations.add(result);
         }
         
-        return result;
+        return permutations;
     }
     
     
-    public String swap(String a, int i, int j)
+    public static String swap(String a, int i, int j)
     {
         char[] charArray = a.toCharArray();
         char temp = charArray[i];
         charArray[i] = charArray[j];
         charArray[j] = temp;
         return String.valueOf(charArray);
-    }
-
-
-    public List<String> getPermutations()
-    {
-        return this.permutations;
-    }
-
-
-    public void setPermutations(List<String> permutations)
-    {
-        this.permutations = permutations;
     }
 }
