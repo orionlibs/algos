@@ -1,6 +1,7 @@
 package algos.projecteuler;
 
 import java.math.BigInteger;
+import algos.reusable.PandigitalNumber;
 
 //Pandigital multiples = https://projecteuler.net/problem=38
 public class Problem38
@@ -23,10 +24,7 @@ public class Problem38
             {
                 digits += BigInteger.valueOf(i).multiply(BigInteger.valueOf(j)).toString();
                 
-                if(digits.length() == 9 && digits.contains("1") && digits.contains("2") && digits.contains("3")
-                                && digits.contains("4") && digits.contains("5") && digits.contains("6")
-                                && digits.contains("7") && digits.contains("8") && digits.contains("9")
-                                && i > largestPandigital)
+                if(PandigitalNumber.isPandigitalNumber(digits) && i > largestPandigital)
                 {
                     largestPandigital = Long.parseLong(digits);
                 }

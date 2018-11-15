@@ -3,6 +3,7 @@ package algos.projecteuler;
 import java.math.BigInteger;
 import java.util.HashSet;
 import java.util.Set;
+import algos.reusable.PandigitalNumber;
 
 //Pandigital products = https://projecteuler.net/problem=32
 public class Problem32
@@ -28,10 +29,7 @@ public class Problem32
                 {
                     String allDigits = product.toString() + Integer.toString(i) + Integer.toString(j);
                     
-                    if(allDigits.contains("1") && allDigits.contains("2") && allDigits.contains("3")
-                                    && allDigits.contains("4") && allDigits.contains("5")
-                                    && allDigits.contains("6") && allDigits.contains("7")
-                                    && allDigits.contains("8") && allDigits.contains("9"))
+                    if(PandigitalNumber.isPandigitalNumber(allDigits))
                     {
                         sum.add(product);
                     }
