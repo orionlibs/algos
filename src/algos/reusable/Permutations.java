@@ -5,6 +5,12 @@ import java.util.List;
 
 public class Permutations
 {
+    public static List<String> permuteString(String string) 
+    {
+        return permuteString(string, 0, string.length() - 1);
+    }
+    
+    
     public static List<String> permuteString(String string, int start, int end) 
     {
         List<String> permutations = new ArrayList<String>();
@@ -28,7 +34,7 @@ public class Permutations
     }
     
     
-    public static String swap(String a, int i, int j)
+    private static String swap(String a, int i, int j)
     {
         char[] charArray = a.toCharArray();
         char temp = charArray[i];
