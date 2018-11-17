@@ -1,19 +1,40 @@
 package algos.reusable;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 public class Permutations
 {
-    public static List<String> permuteString(String string) 
+    private Set<String> permutations;
+    
+    
+    public Permutations()
+    {
+        permutations = new HashSet<String>();
+    }
+    
+    
+    public boolean arePermutationsOfEachOther(String s1, String s2)
+    {
+        char[] s1Characters = s1.toCharArray();
+        char[] s2Characters = s2.toCharArray();
+        Arrays.sort(s1Characters);
+        Arrays.sort(s2Characters);
+        return Arrays.equals(s1Characters, s2Characters);
+    }
+    
+    
+    public List<String> permuteString(String string) 
     {
         return permuteString(string, 0, string.length() - 1);
     }
     
     
-    public static List<String> permuteString(String string, int start, int end) 
+    public List<String> permuteString(String string, int start, int end) 
     {
-        List<String> permutations = new ArrayList<String>();
         String result = string.intern();
         
         if(start != end)
@@ -30,11 +51,11 @@ public class Permutations
             permutations.add(result);
         }
         
-        return permutations;
+        return new ArrayList<String>(permutations);
     }
     
     
-    private static String swap(String a, int i, int j)
+    private String swap(String a, int i, int j)
     {
         char[] charArray = a.toCharArray();
         char temp = charArray[i];

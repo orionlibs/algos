@@ -16,7 +16,7 @@ public class Problem24
     private static String solve()
     {
         String string = "0123456789";
-        List<String> permutations = Permutations.permuteString(string, 0, string.length() - 1);
+        List<String> permutations = new Permutations().permuteString(string, 0, string.length() - 1);
         Collections.sort(permutations);
         return permutations.get(1000000);
     }
