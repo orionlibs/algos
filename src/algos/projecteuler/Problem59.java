@@ -38,19 +38,6 @@ public class Problem59
 
         return 0;
     }
-    
-    
-    /*private static int[] encrypt1(List<Integer> message, int[] key)
-    {
-        int[] encryptedMessage = new int[message.size()];
-        
-        for(int i = 0; i < message.size(); i++)
-        {
-            encryptedMessage[i] = message.get(i) ^ key[i % key.length];                
-        }
-
-        return encryptedMessage;
-    }*/
 
 
     private static int[] encrypt(List<Integer> message, int[] key)
