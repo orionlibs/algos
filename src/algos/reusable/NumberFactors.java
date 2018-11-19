@@ -1,7 +1,10 @@
 package algos.reusable;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 import java.util.stream.LongStream;
 
 public class NumberFactors
@@ -41,5 +44,17 @@ public class NumberFactors
         }
         
         return factors;
+    }
+    
+    
+    public static long getHighestCommonFactor(long x, long y)
+    {
+        List<Long> factorsOfX = getFactors(x);
+        List<Long> factorsOfY = getFactors(y);
+        factorsOfX.retainAll(factorsOfY);
+        Set<Long> commonFactors = new HashSet<Long>(factorsOfX);
+        List<Long> commonFactors1 = new ArrayList<Long>(commonFactors);
+        Collections.sort(commonFactors1);
+        return commonFactors1.get(commonFactors1.size() - 1);
     }
 }

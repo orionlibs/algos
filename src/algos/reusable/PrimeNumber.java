@@ -19,6 +19,12 @@ public class PrimeNumber
     }
     
     
+    public static boolean areRelativePrimeNumbers(long x, long y)
+    {
+        return GreatestCommonDivisor.getGCD(x, y).compareTo(BigInteger.ONE) == 0;
+    }
+    
+    
     public static List<Integer> getPrimeNumbersBelow(int x)
     {
         List<Integer> primesBelowX = new ArrayList<Integer>();
