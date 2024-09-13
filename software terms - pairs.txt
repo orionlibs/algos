@@ -1,5859 +1,7811 @@
 library --- framework
 
 framework --- library
+
 library --- domain-specific language
 
 domain-specific language --- library
+
 library --- BASH script
 
 BASH script --- library
+
 library --- terminal
 
 terminal --- library
+
 library --- GUI
 
 GUI --- library
+
 library --- admin dashboard
 
 admin dashboard --- library
+
 library --- data
 
 data --- library
+
 library --- machine learning
 
 machine learning --- library
+
 library --- protocol
 
 protocol --- library
+
 library --- visualisation
 
 visualisation --- library
+
 library --- converter
 
 converter --- library
+
 library --- network / grid of *****
 
 network / grid of ***** --- library
+
 library --- how to test *****
 
 how to test ***** --- library
+
 library --- API
 
 API --- library
+
 library --- front-end / back-end separation
 
 front-end / back-end separation --- library
+
 library --- compiler / interpreter
 
 compiler / interpreter --- library
+
 library --- integration with *****
 
 integration with ***** --- library
+
 library --- abstraction / generalisation
 
 abstraction / generalisation --- library
+
 library --- dependency
 
 dependency --- library
+
 library --- publish / subscribe
 
 publish / subscribe --- library
+
 library --- plugin
 
 plugin --- library
+
 library --- workflow / process engine
 
 workflow / process engine --- library
+
 library --- process / procedure
 
 process / procedure --- library
+
 library --- design pattern
 
 design pattern --- library
+
 library --- function
 
 function --- library
+
 library --- microkernel
 
 microkernel --- library
+
 library --- registry / repository
 
 registry / repository --- library
+
 library --- tool / toolchain
 
 tool / toolchain --- library
+
 library --- utility
 
 utility --- library
+
 library --- virtual
 
 virtual --- library
+
 library --- concurrent / parallel
 
 concurrent / parallel --- library
+
 library --- structured *****
 
 structured ***** --- library
+
 library --- ***** web *****
 
 ***** web ***** --- library
+
 library --- automation
 
 automation --- library
+
 library --- ***** components / modules
 
 ***** components / modules --- library
+
 library --- SDK
 
 SDK --- library
+
 library --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- library
+
 library --- reliability
 
 reliability --- library
+
 library --- portability
 
 portability --- library
+
 library --- flexibility
 
 flexibility --- library
+
 library --- interoperability
 
 interoperability --- library
+
 library --- administrability / monitorability
 
 administrability / monitorability --- library
+
 library --- auditability / logability
 
 auditability / logability --- library
+
 library --- agent using ***** or many *****
 
 agent using ***** or many ***** --- library
+
 library --- ****** as a Service
 
 ****** as a Service --- library
+
 library --- transaction
 
 transaction --- library
+
 library --- management
 
 management --- library
+
 library --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- library
+
 library --- *****Ops
 
 *****Ops --- library
+
 library --- distributed *****
 
 distributed ***** --- library
+
 library --- industrial *****
 
 industrial ***** --- library
+
 library --- digital twin of *****
 
 digital twin of ***** --- library
+
 library --- processing of ***** signals
 
 processing of ***** signals --- library
+
 library --- optimisation
 
 optimisation --- library
+
 library --- algebra of *****
 
 algebra of ***** --- library
+
 library --- calculus of *****
 
 calculus of ***** --- library
+
 library --- applied *****
 
 applied ***** --- library
+
 library --- factory of *****
 
 factory of ***** --- library
+
 library --- ***** adapter
 
 ***** adapter --- library
+
 library --- bridge between ***** and *****
 
 bridge between ***** and ***** --- library
+
 library --- ***** controller
 
 ***** controller --- library
+
 library --- polymorphic *****
 
 polymorphic ***** --- library
+
 framework --- domain-specific language
 
 domain-specific language --- framework
+
 framework --- BASH script
 
 BASH script --- framework
+
 framework --- terminal
 
 terminal --- framework
+
 framework --- GUI
 
 GUI --- framework
+
 framework --- admin dashboard
 
 admin dashboard --- framework
+
 framework --- data
 
 data --- framework
+
 framework --- machine learning
 
 machine learning --- framework
+
 framework --- protocol
 
 protocol --- framework
+
 framework --- visualisation
 
 visualisation --- framework
+
 framework --- converter
 
 converter --- framework
+
 framework --- network / grid of *****
 
 network / grid of ***** --- framework
+
 framework --- how to test *****
 
 how to test ***** --- framework
+
 framework --- API
 
 API --- framework
+
 framework --- front-end / back-end separation
 
 front-end / back-end separation --- framework
+
 framework --- compiler / interpreter
 
 compiler / interpreter --- framework
+
 framework --- integration with *****
 
 integration with ***** --- framework
+
 framework --- abstraction / generalisation
 
 abstraction / generalisation --- framework
+
 framework --- dependency
 
 dependency --- framework
+
 framework --- publish / subscribe
 
 publish / subscribe --- framework
+
 framework --- plugin
 
 plugin --- framework
+
 framework --- workflow / process engine
 
 workflow / process engine --- framework
+
 framework --- process / procedure
 
 process / procedure --- framework
+
 framework --- design pattern
 
 design pattern --- framework
+
 framework --- function
 
 function --- framework
+
 framework --- microkernel
 
 microkernel --- framework
+
 framework --- registry / repository
 
 registry / repository --- framework
+
 framework --- tool / toolchain
 
 tool / toolchain --- framework
+
 framework --- utility
 
 utility --- framework
+
 framework --- virtual
 
 virtual --- framework
+
 framework --- concurrent / parallel
 
 concurrent / parallel --- framework
+
 framework --- structured *****
 
 structured ***** --- framework
+
 framework --- ***** web *****
 
 ***** web ***** --- framework
+
 framework --- automation
 
 automation --- framework
+
 framework --- ***** components / modules
 
 ***** components / modules --- framework
+
 framework --- SDK
 
 SDK --- framework
+
 framework --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- framework
+
 framework --- reliability
 
 reliability --- framework
+
 framework --- portability
 
 portability --- framework
+
 framework --- flexibility
 
 flexibility --- framework
+
 framework --- interoperability
 
 interoperability --- framework
+
 framework --- administrability / monitorability
 
 administrability / monitorability --- framework
+
 framework --- auditability / logability
 
 auditability / logability --- framework
+
 framework --- agent using ***** or many *****
 
 agent using ***** or many ***** --- framework
+
 framework --- ****** as a Service
 
 ****** as a Service --- framework
+
 framework --- transaction
 
 transaction --- framework
+
 framework --- management
 
 management --- framework
+
 framework --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- framework
+
 framework --- *****Ops
 
 *****Ops --- framework
+
 framework --- distributed *****
 
 distributed ***** --- framework
+
 framework --- industrial *****
 
 industrial ***** --- framework
+
 framework --- digital twin of *****
 
 digital twin of ***** --- framework
+
 framework --- processing of ***** signals
 
 processing of ***** signals --- framework
+
 framework --- optimisation
 
 optimisation --- framework
+
 framework --- algebra of *****
 
 algebra of ***** --- framework
+
 framework --- calculus of *****
 
 calculus of ***** --- framework
+
 framework --- applied *****
 
 applied ***** --- framework
+
 framework --- factory of *****
 
 factory of ***** --- framework
+
 framework --- ***** adapter
 
 ***** adapter --- framework
+
 framework --- bridge between ***** and *****
 
 bridge between ***** and ***** --- framework
+
 framework --- ***** controller
 
 ***** controller --- framework
+
 framework --- polymorphic *****
 
 polymorphic ***** --- framework
+
 domain-specific language --- BASH script
 
 BASH script --- domain-specific language
+
 domain-specific language --- terminal
 
 terminal --- domain-specific language
+
 domain-specific language --- GUI
 
 GUI --- domain-specific language
+
 domain-specific language --- admin dashboard
 
 admin dashboard --- domain-specific language
+
 domain-specific language --- data
 
 data --- domain-specific language
+
 domain-specific language --- machine learning
 
 machine learning --- domain-specific language
+
 domain-specific language --- protocol
 
 protocol --- domain-specific language
+
 domain-specific language --- visualisation
 
 visualisation --- domain-specific language
+
 domain-specific language --- converter
 
 converter --- domain-specific language
+
 domain-specific language --- network / grid of *****
 
 network / grid of ***** --- domain-specific language
+
 domain-specific language --- how to test *****
 
 how to test ***** --- domain-specific language
+
 domain-specific language --- API
 
 API --- domain-specific language
+
 domain-specific language --- front-end / back-end separation
 
 front-end / back-end separation --- domain-specific language
+
 domain-specific language --- compiler / interpreter
 
 compiler / interpreter --- domain-specific language
+
 domain-specific language --- integration with *****
 
 integration with ***** --- domain-specific language
+
 domain-specific language --- abstraction / generalisation
 
 abstraction / generalisation --- domain-specific language
+
 domain-specific language --- dependency
 
 dependency --- domain-specific language
+
 domain-specific language --- publish / subscribe
 
 publish / subscribe --- domain-specific language
+
 domain-specific language --- plugin
 
 plugin --- domain-specific language
+
 domain-specific language --- workflow / process engine
 
 workflow / process engine --- domain-specific language
+
 domain-specific language --- process / procedure
 
 process / procedure --- domain-specific language
+
 domain-specific language --- design pattern
 
 design pattern --- domain-specific language
+
 domain-specific language --- function
 
 function --- domain-specific language
+
 domain-specific language --- microkernel
 
 microkernel --- domain-specific language
+
 domain-specific language --- registry / repository
 
 registry / repository --- domain-specific language
+
 domain-specific language --- tool / toolchain
 
 tool / toolchain --- domain-specific language
+
 domain-specific language --- utility
 
 utility --- domain-specific language
+
 domain-specific language --- virtual
 
 virtual --- domain-specific language
+
 domain-specific language --- concurrent / parallel
 
 concurrent / parallel --- domain-specific language
+
 domain-specific language --- structured *****
 
 structured ***** --- domain-specific language
+
 domain-specific language --- ***** web *****
 
 ***** web ***** --- domain-specific language
+
 domain-specific language --- automation
 
 automation --- domain-specific language
+
 domain-specific language --- ***** components / modules
 
 ***** components / modules --- domain-specific language
+
 domain-specific language --- SDK
 
 SDK --- domain-specific language
+
 domain-specific language --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- domain-specific language
+
 domain-specific language --- reliability
 
 reliability --- domain-specific language
+
 domain-specific language --- portability
 
 portability --- domain-specific language
+
 domain-specific language --- flexibility
 
 flexibility --- domain-specific language
+
 domain-specific language --- interoperability
 
 interoperability --- domain-specific language
+
 domain-specific language --- administrability / monitorability
 
 administrability / monitorability --- domain-specific language
+
 domain-specific language --- auditability / logability
 
 auditability / logability --- domain-specific language
+
 domain-specific language --- agent using ***** or many *****
 
 agent using ***** or many ***** --- domain-specific language
+
 domain-specific language --- ****** as a Service
 
 ****** as a Service --- domain-specific language
+
 domain-specific language --- transaction
 
 transaction --- domain-specific language
+
 domain-specific language --- management
 
 management --- domain-specific language
+
 domain-specific language --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- domain-specific language
+
 domain-specific language --- *****Ops
 
 *****Ops --- domain-specific language
+
 domain-specific language --- distributed *****
 
 distributed ***** --- domain-specific language
+
 domain-specific language --- industrial *****
 
 industrial ***** --- domain-specific language
+
 domain-specific language --- digital twin of *****
 
 digital twin of ***** --- domain-specific language
+
 domain-specific language --- processing of ***** signals
 
 processing of ***** signals --- domain-specific language
+
 domain-specific language --- optimisation
 
 optimisation --- domain-specific language
+
 domain-specific language --- algebra of *****
 
 algebra of ***** --- domain-specific language
+
 domain-specific language --- calculus of *****
 
 calculus of ***** --- domain-specific language
+
 domain-specific language --- applied *****
 
 applied ***** --- domain-specific language
+
 domain-specific language --- factory of *****
 
 factory of ***** --- domain-specific language
+
 domain-specific language --- ***** adapter
 
 ***** adapter --- domain-specific language
+
 domain-specific language --- bridge between ***** and *****
 
 bridge between ***** and ***** --- domain-specific language
+
 domain-specific language --- ***** controller
 
 ***** controller --- domain-specific language
+
 domain-specific language --- polymorphic *****
 
 polymorphic ***** --- domain-specific language
+
 BASH script --- terminal
 
 terminal --- BASH script
+
 BASH script --- GUI
 
 GUI --- BASH script
+
 BASH script --- admin dashboard
 
 admin dashboard --- BASH script
+
 BASH script --- data
 
 data --- BASH script
+
 BASH script --- machine learning
 
 machine learning --- BASH script
+
 BASH script --- protocol
 
 protocol --- BASH script
+
 BASH script --- visualisation
 
 visualisation --- BASH script
+
 BASH script --- converter
 
 converter --- BASH script
+
 BASH script --- network / grid of *****
 
 network / grid of ***** --- BASH script
+
 BASH script --- how to test *****
 
 how to test ***** --- BASH script
+
 BASH script --- API
 
 API --- BASH script
+
 BASH script --- front-end / back-end separation
 
 front-end / back-end separation --- BASH script
+
 BASH script --- compiler / interpreter
 
 compiler / interpreter --- BASH script
+
 BASH script --- integration with *****
 
 integration with ***** --- BASH script
+
 BASH script --- abstraction / generalisation
 
 abstraction / generalisation --- BASH script
+
 BASH script --- dependency
 
 dependency --- BASH script
+
 BASH script --- publish / subscribe
 
 publish / subscribe --- BASH script
+
 BASH script --- plugin
 
 plugin --- BASH script
+
 BASH script --- workflow / process engine
 
 workflow / process engine --- BASH script
+
 BASH script --- process / procedure
 
 process / procedure --- BASH script
+
 BASH script --- design pattern
 
 design pattern --- BASH script
+
 BASH script --- function
 
 function --- BASH script
+
 BASH script --- microkernel
 
 microkernel --- BASH script
+
 BASH script --- registry / repository
 
 registry / repository --- BASH script
+
 BASH script --- tool / toolchain
 
 tool / toolchain --- BASH script
+
 BASH script --- utility
 
 utility --- BASH script
+
 BASH script --- virtual
 
 virtual --- BASH script
+
 BASH script --- concurrent / parallel
 
 concurrent / parallel --- BASH script
+
 BASH script --- structured *****
 
 structured ***** --- BASH script
+
 BASH script --- ***** web *****
 
 ***** web ***** --- BASH script
+
 BASH script --- automation
 
 automation --- BASH script
+
 BASH script --- ***** components / modules
 
 ***** components / modules --- BASH script
+
 BASH script --- SDK
 
 SDK --- BASH script
+
 BASH script --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- BASH script
+
 BASH script --- reliability
 
 reliability --- BASH script
+
 BASH script --- portability
 
 portability --- BASH script
+
 BASH script --- flexibility
 
 flexibility --- BASH script
+
 BASH script --- interoperability
 
 interoperability --- BASH script
+
 BASH script --- administrability / monitorability
 
 administrability / monitorability --- BASH script
+
 BASH script --- auditability / logability
 
 auditability / logability --- BASH script
+
 BASH script --- agent using ***** or many *****
 
 agent using ***** or many ***** --- BASH script
+
 BASH script --- ****** as a Service
 
 ****** as a Service --- BASH script
+
 BASH script --- transaction
 
 transaction --- BASH script
+
 BASH script --- management
 
 management --- BASH script
+
 BASH script --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- BASH script
+
 BASH script --- *****Ops
 
 *****Ops --- BASH script
+
 BASH script --- distributed *****
 
 distributed ***** --- BASH script
+
 BASH script --- industrial *****
 
 industrial ***** --- BASH script
+
 BASH script --- digital twin of *****
 
 digital twin of ***** --- BASH script
+
 BASH script --- processing of ***** signals
 
 processing of ***** signals --- BASH script
+
 BASH script --- optimisation
 
 optimisation --- BASH script
+
 BASH script --- algebra of *****
 
 algebra of ***** --- BASH script
+
 BASH script --- calculus of *****
 
 calculus of ***** --- BASH script
+
 BASH script --- applied *****
 
 applied ***** --- BASH script
+
 BASH script --- factory of *****
 
 factory of ***** --- BASH script
+
 BASH script --- ***** adapter
 
 ***** adapter --- BASH script
+
 BASH script --- bridge between ***** and *****
 
 bridge between ***** and ***** --- BASH script
+
 BASH script --- ***** controller
 
 ***** controller --- BASH script
+
 BASH script --- polymorphic *****
 
 polymorphic ***** --- BASH script
+
 terminal --- GUI
 
 GUI --- terminal
+
 terminal --- admin dashboard
 
 admin dashboard --- terminal
+
 terminal --- data
 
 data --- terminal
+
 terminal --- machine learning
 
 machine learning --- terminal
+
 terminal --- protocol
 
 protocol --- terminal
+
 terminal --- visualisation
 
 visualisation --- terminal
+
 terminal --- converter
 
 converter --- terminal
+
 terminal --- network / grid of *****
 
 network / grid of ***** --- terminal
+
 terminal --- how to test *****
 
 how to test ***** --- terminal
+
 terminal --- API
 
 API --- terminal
+
 terminal --- front-end / back-end separation
 
 front-end / back-end separation --- terminal
+
 terminal --- compiler / interpreter
 
 compiler / interpreter --- terminal
+
 terminal --- integration with *****
 
 integration with ***** --- terminal
+
 terminal --- abstraction / generalisation
 
 abstraction / generalisation --- terminal
+
 terminal --- dependency
 
 dependency --- terminal
+
 terminal --- publish / subscribe
 
 publish / subscribe --- terminal
+
 terminal --- plugin
 
 plugin --- terminal
+
 terminal --- workflow / process engine
 
 workflow / process engine --- terminal
+
 terminal --- process / procedure
 
 process / procedure --- terminal
+
 terminal --- design pattern
 
 design pattern --- terminal
+
 terminal --- function
 
 function --- terminal
+
 terminal --- microkernel
 
 microkernel --- terminal
+
 terminal --- registry / repository
 
 registry / repository --- terminal
+
 terminal --- tool / toolchain
 
 tool / toolchain --- terminal
+
 terminal --- utility
 
 utility --- terminal
+
 terminal --- virtual
 
 virtual --- terminal
+
 terminal --- concurrent / parallel
 
 concurrent / parallel --- terminal
+
 terminal --- structured *****
 
 structured ***** --- terminal
+
 terminal --- ***** web *****
 
 ***** web ***** --- terminal
+
 terminal --- automation
 
 automation --- terminal
+
 terminal --- ***** components / modules
 
 ***** components / modules --- terminal
+
 terminal --- SDK
 
 SDK --- terminal
+
 terminal --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- terminal
+
 terminal --- reliability
 
 reliability --- terminal
+
 terminal --- portability
 
 portability --- terminal
+
 terminal --- flexibility
 
 flexibility --- terminal
+
 terminal --- interoperability
 
 interoperability --- terminal
+
 terminal --- administrability / monitorability
 
 administrability / monitorability --- terminal
+
 terminal --- auditability / logability
 
 auditability / logability --- terminal
+
 terminal --- agent using ***** or many *****
 
 agent using ***** or many ***** --- terminal
+
 terminal --- ****** as a Service
 
 ****** as a Service --- terminal
+
 terminal --- transaction
 
 transaction --- terminal
+
 terminal --- management
 
 management --- terminal
+
 terminal --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- terminal
+
 terminal --- *****Ops
 
 *****Ops --- terminal
+
 terminal --- distributed *****
 
 distributed ***** --- terminal
+
 terminal --- industrial *****
 
 industrial ***** --- terminal
+
 terminal --- digital twin of *****
 
 digital twin of ***** --- terminal
+
 terminal --- processing of ***** signals
 
 processing of ***** signals --- terminal
+
 terminal --- optimisation
 
 optimisation --- terminal
+
 terminal --- algebra of *****
 
 algebra of ***** --- terminal
+
 terminal --- calculus of *****
 
 calculus of ***** --- terminal
+
 terminal --- applied *****
 
 applied ***** --- terminal
+
 terminal --- factory of *****
 
 factory of ***** --- terminal
+
 terminal --- ***** adapter
 
 ***** adapter --- terminal
+
 terminal --- bridge between ***** and *****
 
 bridge between ***** and ***** --- terminal
+
 terminal --- ***** controller
 
 ***** controller --- terminal
+
 terminal --- polymorphic *****
 
 polymorphic ***** --- terminal
+
 GUI --- admin dashboard
 
 admin dashboard --- GUI
+
 GUI --- data
 
 data --- GUI
+
 GUI --- machine learning
 
 machine learning --- GUI
+
 GUI --- protocol
 
 protocol --- GUI
+
 GUI --- visualisation
 
 visualisation --- GUI
+
 GUI --- converter
 
 converter --- GUI
+
 GUI --- network / grid of *****
 
 network / grid of ***** --- GUI
+
 GUI --- how to test *****
 
 how to test ***** --- GUI
+
 GUI --- API
 
 API --- GUI
+
 GUI --- front-end / back-end separation
 
 front-end / back-end separation --- GUI
+
 GUI --- compiler / interpreter
 
 compiler / interpreter --- GUI
+
 GUI --- integration with *****
 
 integration with ***** --- GUI
+
 GUI --- abstraction / generalisation
 
 abstraction / generalisation --- GUI
+
 GUI --- dependency
 
 dependency --- GUI
+
 GUI --- publish / subscribe
 
 publish / subscribe --- GUI
+
 GUI --- plugin
 
 plugin --- GUI
+
 GUI --- workflow / process engine
 
 workflow / process engine --- GUI
+
 GUI --- process / procedure
 
 process / procedure --- GUI
+
 GUI --- design pattern
 
 design pattern --- GUI
+
 GUI --- function
 
 function --- GUI
+
 GUI --- microkernel
 
 microkernel --- GUI
+
 GUI --- registry / repository
 
 registry / repository --- GUI
+
 GUI --- tool / toolchain
 
 tool / toolchain --- GUI
+
 GUI --- utility
 
 utility --- GUI
+
 GUI --- virtual
 
 virtual --- GUI
+
 GUI --- concurrent / parallel
 
 concurrent / parallel --- GUI
+
 GUI --- structured *****
 
 structured ***** --- GUI
+
 GUI --- ***** web *****
 
 ***** web ***** --- GUI
+
 GUI --- automation
 
 automation --- GUI
+
 GUI --- ***** components / modules
 
 ***** components / modules --- GUI
+
 GUI --- SDK
 
 SDK --- GUI
+
 GUI --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- GUI
+
 GUI --- reliability
 
 reliability --- GUI
+
 GUI --- portability
 
 portability --- GUI
+
 GUI --- flexibility
 
 flexibility --- GUI
+
 GUI --- interoperability
 
 interoperability --- GUI
+
 GUI --- administrability / monitorability
 
 administrability / monitorability --- GUI
+
 GUI --- auditability / logability
 
 auditability / logability --- GUI
+
 GUI --- agent using ***** or many *****
 
 agent using ***** or many ***** --- GUI
+
 GUI --- ****** as a Service
 
 ****** as a Service --- GUI
+
 GUI --- transaction
 
 transaction --- GUI
+
 GUI --- management
 
 management --- GUI
+
 GUI --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- GUI
+
 GUI --- *****Ops
 
 *****Ops --- GUI
+
 GUI --- distributed *****
 
 distributed ***** --- GUI
+
 GUI --- industrial *****
 
 industrial ***** --- GUI
+
 GUI --- digital twin of *****
 
 digital twin of ***** --- GUI
+
 GUI --- processing of ***** signals
 
 processing of ***** signals --- GUI
+
 GUI --- optimisation
 
 optimisation --- GUI
+
 GUI --- algebra of *****
 
 algebra of ***** --- GUI
+
 GUI --- calculus of *****
 
 calculus of ***** --- GUI
+
 GUI --- applied *****
 
 applied ***** --- GUI
+
 GUI --- factory of *****
 
 factory of ***** --- GUI
+
 GUI --- ***** adapter
 
 ***** adapter --- GUI
+
 GUI --- bridge between ***** and *****
 
 bridge between ***** and ***** --- GUI
+
 GUI --- ***** controller
 
 ***** controller --- GUI
+
 GUI --- polymorphic *****
 
 polymorphic ***** --- GUI
+
 admin dashboard --- data
 
 data --- admin dashboard
+
 admin dashboard --- machine learning
 
 machine learning --- admin dashboard
+
 admin dashboard --- protocol
 
 protocol --- admin dashboard
+
 admin dashboard --- visualisation
 
 visualisation --- admin dashboard
+
 admin dashboard --- converter
 
 converter --- admin dashboard
+
 admin dashboard --- network / grid of *****
 
 network / grid of ***** --- admin dashboard
+
 admin dashboard --- how to test *****
 
 how to test ***** --- admin dashboard
+
 admin dashboard --- API
 
 API --- admin dashboard
+
 admin dashboard --- front-end / back-end separation
 
 front-end / back-end separation --- admin dashboard
+
 admin dashboard --- compiler / interpreter
 
 compiler / interpreter --- admin dashboard
+
 admin dashboard --- integration with *****
 
 integration with ***** --- admin dashboard
+
 admin dashboard --- abstraction / generalisation
 
 abstraction / generalisation --- admin dashboard
+
 admin dashboard --- dependency
 
 dependency --- admin dashboard
+
 admin dashboard --- publish / subscribe
 
 publish / subscribe --- admin dashboard
+
 admin dashboard --- plugin
 
 plugin --- admin dashboard
+
 admin dashboard --- workflow / process engine
 
 workflow / process engine --- admin dashboard
+
 admin dashboard --- process / procedure
 
 process / procedure --- admin dashboard
+
 admin dashboard --- design pattern
 
 design pattern --- admin dashboard
+
 admin dashboard --- function
 
 function --- admin dashboard
+
 admin dashboard --- microkernel
 
 microkernel --- admin dashboard
+
 admin dashboard --- registry / repository
 
 registry / repository --- admin dashboard
+
 admin dashboard --- tool / toolchain
 
 tool / toolchain --- admin dashboard
+
 admin dashboard --- utility
 
 utility --- admin dashboard
+
 admin dashboard --- virtual
 
 virtual --- admin dashboard
+
 admin dashboard --- concurrent / parallel
 
 concurrent / parallel --- admin dashboard
+
 admin dashboard --- structured *****
 
 structured ***** --- admin dashboard
+
 admin dashboard --- ***** web *****
 
 ***** web ***** --- admin dashboard
+
 admin dashboard --- automation
 
 automation --- admin dashboard
+
 admin dashboard --- ***** components / modules
 
 ***** components / modules --- admin dashboard
+
 admin dashboard --- SDK
 
 SDK --- admin dashboard
+
 admin dashboard --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- admin dashboard
+
 admin dashboard --- reliability
 
 reliability --- admin dashboard
+
 admin dashboard --- portability
 
 portability --- admin dashboard
+
 admin dashboard --- flexibility
 
 flexibility --- admin dashboard
+
 admin dashboard --- interoperability
 
 interoperability --- admin dashboard
+
 admin dashboard --- administrability / monitorability
 
 administrability / monitorability --- admin dashboard
+
 admin dashboard --- auditability / logability
 
 auditability / logability --- admin dashboard
+
 admin dashboard --- agent using ***** or many *****
 
 agent using ***** or many ***** --- admin dashboard
+
 admin dashboard --- ****** as a Service
 
 ****** as a Service --- admin dashboard
+
 admin dashboard --- transaction
 
 transaction --- admin dashboard
+
 admin dashboard --- management
 
 management --- admin dashboard
+
 admin dashboard --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- admin dashboard
+
 admin dashboard --- *****Ops
 
 *****Ops --- admin dashboard
+
 admin dashboard --- distributed *****
 
 distributed ***** --- admin dashboard
+
 admin dashboard --- industrial *****
 
 industrial ***** --- admin dashboard
+
 admin dashboard --- digital twin of *****
 
 digital twin of ***** --- admin dashboard
+
 admin dashboard --- processing of ***** signals
 
 processing of ***** signals --- admin dashboard
+
 admin dashboard --- optimisation
 
 optimisation --- admin dashboard
+
 admin dashboard --- algebra of *****
 
 algebra of ***** --- admin dashboard
+
 admin dashboard --- calculus of *****
 
 calculus of ***** --- admin dashboard
+
 admin dashboard --- applied *****
 
 applied ***** --- admin dashboard
+
 admin dashboard --- factory of *****
 
 factory of ***** --- admin dashboard
+
 admin dashboard --- ***** adapter
 
 ***** adapter --- admin dashboard
+
 admin dashboard --- bridge between ***** and *****
 
 bridge between ***** and ***** --- admin dashboard
+
 admin dashboard --- ***** controller
 
 ***** controller --- admin dashboard
+
 admin dashboard --- polymorphic *****
 
 polymorphic ***** --- admin dashboard
+
 data --- machine learning
 
 machine learning --- data
+
 data --- protocol
 
 protocol --- data
+
 data --- visualisation
 
 visualisation --- data
+
 data --- converter
 
 converter --- data
+
 data --- network / grid of *****
 
 network / grid of ***** --- data
+
 data --- how to test *****
 
 how to test ***** --- data
+
 data --- API
 
 API --- data
+
 data --- front-end / back-end separation
 
 front-end / back-end separation --- data
+
 data --- compiler / interpreter
 
 compiler / interpreter --- data
+
 data --- integration with *****
 
 integration with ***** --- data
+
 data --- abstraction / generalisation
 
 abstraction / generalisation --- data
+
 data --- dependency
 
 dependency --- data
+
 data --- publish / subscribe
 
 publish / subscribe --- data
+
 data --- plugin
 
 plugin --- data
+
 data --- workflow / process engine
 
 workflow / process engine --- data
+
 data --- process / procedure
 
 process / procedure --- data
+
 data --- design pattern
 
 design pattern --- data
+
 data --- function
 
 function --- data
+
 data --- microkernel
 
 microkernel --- data
+
 data --- registry / repository
 
 registry / repository --- data
+
 data --- tool / toolchain
 
 tool / toolchain --- data
+
 data --- utility
 
 utility --- data
+
 data --- virtual
 
 virtual --- data
+
 data --- concurrent / parallel
 
 concurrent / parallel --- data
+
 data --- structured *****
 
 structured ***** --- data
+
 data --- ***** web *****
 
 ***** web ***** --- data
+
 data --- automation
 
 automation --- data
+
 data --- ***** components / modules
 
 ***** components / modules --- data
+
 data --- SDK
 
 SDK --- data
+
 data --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- data
+
 data --- reliability
 
 reliability --- data
+
 data --- portability
 
 portability --- data
+
 data --- flexibility
 
 flexibility --- data
+
 data --- interoperability
 
 interoperability --- data
+
 data --- administrability / monitorability
 
 administrability / monitorability --- data
+
 data --- auditability / logability
 
 auditability / logability --- data
+
 data --- agent using ***** or many *****
 
 agent using ***** or many ***** --- data
+
 data --- ****** as a Service
 
 ****** as a Service --- data
+
 data --- transaction
 
 transaction --- data
+
 data --- management
 
 management --- data
+
 data --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- data
+
 data --- *****Ops
 
 *****Ops --- data
+
 data --- distributed *****
 
 distributed ***** --- data
+
 data --- industrial *****
 
 industrial ***** --- data
+
 data --- digital twin of *****
 
 digital twin of ***** --- data
+
 data --- processing of ***** signals
 
 processing of ***** signals --- data
+
 data --- optimisation
 
 optimisation --- data
+
 data --- algebra of *****
 
 algebra of ***** --- data
+
 data --- calculus of *****
 
 calculus of ***** --- data
+
 data --- applied *****
 
 applied ***** --- data
+
 data --- factory of *****
 
 factory of ***** --- data
+
 data --- ***** adapter
 
 ***** adapter --- data
+
 data --- bridge between ***** and *****
 
 bridge between ***** and ***** --- data
+
 data --- ***** controller
 
 ***** controller --- data
+
 data --- polymorphic *****
 
 polymorphic ***** --- data
+
 machine learning --- protocol
 
 protocol --- machine learning
+
 machine learning --- visualisation
 
 visualisation --- machine learning
+
 machine learning --- converter
 
 converter --- machine learning
+
 machine learning --- network / grid of *****
 
 network / grid of ***** --- machine learning
+
 machine learning --- how to test *****
 
 how to test ***** --- machine learning
+
 machine learning --- API
 
 API --- machine learning
+
 machine learning --- front-end / back-end separation
 
 front-end / back-end separation --- machine learning
+
 machine learning --- compiler / interpreter
 
 compiler / interpreter --- machine learning
+
 machine learning --- integration with *****
 
 integration with ***** --- machine learning
+
 machine learning --- abstraction / generalisation
 
 abstraction / generalisation --- machine learning
+
 machine learning --- dependency
 
 dependency --- machine learning
+
 machine learning --- publish / subscribe
 
 publish / subscribe --- machine learning
+
 machine learning --- plugin
 
 plugin --- machine learning
+
 machine learning --- workflow / process engine
 
 workflow / process engine --- machine learning
+
 machine learning --- process / procedure
 
 process / procedure --- machine learning
+
 machine learning --- design pattern
 
 design pattern --- machine learning
+
 machine learning --- function
 
 function --- machine learning
+
 machine learning --- microkernel
 
 microkernel --- machine learning
+
 machine learning --- registry / repository
 
 registry / repository --- machine learning
+
 machine learning --- tool / toolchain
 
 tool / toolchain --- machine learning
+
 machine learning --- utility
 
 utility --- machine learning
+
 machine learning --- virtual
 
 virtual --- machine learning
+
 machine learning --- concurrent / parallel
 
 concurrent / parallel --- machine learning
+
 machine learning --- structured *****
 
 structured ***** --- machine learning
+
 machine learning --- ***** web *****
 
 ***** web ***** --- machine learning
+
 machine learning --- automation
 
 automation --- machine learning
+
 machine learning --- ***** components / modules
 
 ***** components / modules --- machine learning
+
 machine learning --- SDK
 
 SDK --- machine learning
+
 machine learning --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- machine learning
+
 machine learning --- reliability
 
 reliability --- machine learning
+
 machine learning --- portability
 
 portability --- machine learning
+
 machine learning --- flexibility
 
 flexibility --- machine learning
+
 machine learning --- interoperability
 
 interoperability --- machine learning
+
 machine learning --- administrability / monitorability
 
 administrability / monitorability --- machine learning
+
 machine learning --- auditability / logability
 
 auditability / logability --- machine learning
+
 machine learning --- agent using ***** or many *****
 
 agent using ***** or many ***** --- machine learning
+
 machine learning --- ****** as a Service
 
 ****** as a Service --- machine learning
+
 machine learning --- transaction
 
 transaction --- machine learning
+
 machine learning --- management
 
 management --- machine learning
+
 machine learning --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- machine learning
+
 machine learning --- *****Ops
 
 *****Ops --- machine learning
+
 machine learning --- distributed *****
 
 distributed ***** --- machine learning
+
 machine learning --- industrial *****
 
 industrial ***** --- machine learning
+
 machine learning --- digital twin of *****
 
 digital twin of ***** --- machine learning
+
 machine learning --- processing of ***** signals
 
 processing of ***** signals --- machine learning
+
 machine learning --- optimisation
 
 optimisation --- machine learning
+
 machine learning --- algebra of *****
 
 algebra of ***** --- machine learning
+
 machine learning --- calculus of *****
 
 calculus of ***** --- machine learning
+
 machine learning --- applied *****
 
 applied ***** --- machine learning
+
 machine learning --- factory of *****
 
 factory of ***** --- machine learning
+
 machine learning --- ***** adapter
 
 ***** adapter --- machine learning
+
 machine learning --- bridge between ***** and *****
 
 bridge between ***** and ***** --- machine learning
+
 machine learning --- ***** controller
 
 ***** controller --- machine learning
+
 machine learning --- polymorphic *****
 
 polymorphic ***** --- machine learning
+
 protocol --- visualisation
 
 visualisation --- protocol
+
 protocol --- converter
 
 converter --- protocol
+
 protocol --- network / grid of *****
 
 network / grid of ***** --- protocol
+
 protocol --- how to test *****
 
 how to test ***** --- protocol
+
 protocol --- API
 
 API --- protocol
+
 protocol --- front-end / back-end separation
 
 front-end / back-end separation --- protocol
+
 protocol --- compiler / interpreter
 
 compiler / interpreter --- protocol
+
 protocol --- integration with *****
 
 integration with ***** --- protocol
+
 protocol --- abstraction / generalisation
 
 abstraction / generalisation --- protocol
+
 protocol --- dependency
 
 dependency --- protocol
+
 protocol --- publish / subscribe
 
 publish / subscribe --- protocol
+
 protocol --- plugin
 
 plugin --- protocol
+
 protocol --- workflow / process engine
 
 workflow / process engine --- protocol
+
 protocol --- process / procedure
 
 process / procedure --- protocol
+
 protocol --- design pattern
 
 design pattern --- protocol
+
 protocol --- function
 
 function --- protocol
+
 protocol --- microkernel
 
 microkernel --- protocol
+
 protocol --- registry / repository
 
 registry / repository --- protocol
+
 protocol --- tool / toolchain
 
 tool / toolchain --- protocol
+
 protocol --- utility
 
 utility --- protocol
+
 protocol --- virtual
 
 virtual --- protocol
+
 protocol --- concurrent / parallel
 
 concurrent / parallel --- protocol
+
 protocol --- structured *****
 
 structured ***** --- protocol
+
 protocol --- ***** web *****
 
 ***** web ***** --- protocol
+
 protocol --- automation
 
 automation --- protocol
+
 protocol --- ***** components / modules
 
 ***** components / modules --- protocol
+
 protocol --- SDK
 
 SDK --- protocol
+
 protocol --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- protocol
+
 protocol --- reliability
 
 reliability --- protocol
+
 protocol --- portability
 
 portability --- protocol
+
 protocol --- flexibility
 
 flexibility --- protocol
+
 protocol --- interoperability
 
 interoperability --- protocol
+
 protocol --- administrability / monitorability
 
 administrability / monitorability --- protocol
+
 protocol --- auditability / logability
 
 auditability / logability --- protocol
+
 protocol --- agent using ***** or many *****
 
 agent using ***** or many ***** --- protocol
+
 protocol --- ****** as a Service
 
 ****** as a Service --- protocol
+
 protocol --- transaction
 
 transaction --- protocol
+
 protocol --- management
 
 management --- protocol
+
 protocol --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- protocol
+
 protocol --- *****Ops
 
 *****Ops --- protocol
+
 protocol --- distributed *****
 
 distributed ***** --- protocol
+
 protocol --- industrial *****
 
 industrial ***** --- protocol
+
 protocol --- digital twin of *****
 
 digital twin of ***** --- protocol
+
 protocol --- processing of ***** signals
 
 processing of ***** signals --- protocol
+
 protocol --- optimisation
 
 optimisation --- protocol
+
 protocol --- algebra of *****
 
 algebra of ***** --- protocol
+
 protocol --- calculus of *****
 
 calculus of ***** --- protocol
+
 protocol --- applied *****
 
 applied ***** --- protocol
+
 protocol --- factory of *****
 
 factory of ***** --- protocol
+
 protocol --- ***** adapter
 
 ***** adapter --- protocol
+
 protocol --- bridge between ***** and *****
 
 bridge between ***** and ***** --- protocol
+
 protocol --- ***** controller
 
 ***** controller --- protocol
+
 protocol --- polymorphic *****
 
 polymorphic ***** --- protocol
+
 visualisation --- converter
 
 converter --- visualisation
+
 visualisation --- network / grid of *****
 
 network / grid of ***** --- visualisation
+
 visualisation --- how to test *****
 
 how to test ***** --- visualisation
+
 visualisation --- API
 
 API --- visualisation
+
 visualisation --- front-end / back-end separation
 
 front-end / back-end separation --- visualisation
+
 visualisation --- compiler / interpreter
 
 compiler / interpreter --- visualisation
+
 visualisation --- integration with *****
 
 integration with ***** --- visualisation
+
 visualisation --- abstraction / generalisation
 
 abstraction / generalisation --- visualisation
+
 visualisation --- dependency
 
 dependency --- visualisation
+
 visualisation --- publish / subscribe
 
 publish / subscribe --- visualisation
+
 visualisation --- plugin
 
 plugin --- visualisation
+
 visualisation --- workflow / process engine
 
 workflow / process engine --- visualisation
+
 visualisation --- process / procedure
 
 process / procedure --- visualisation
+
 visualisation --- design pattern
 
 design pattern --- visualisation
+
 visualisation --- function
 
 function --- visualisation
+
 visualisation --- microkernel
 
 microkernel --- visualisation
+
 visualisation --- registry / repository
 
 registry / repository --- visualisation
+
 visualisation --- tool / toolchain
 
 tool / toolchain --- visualisation
+
 visualisation --- utility
 
 utility --- visualisation
+
 visualisation --- virtual
 
 virtual --- visualisation
+
 visualisation --- concurrent / parallel
 
 concurrent / parallel --- visualisation
+
 visualisation --- structured *****
 
 structured ***** --- visualisation
+
 visualisation --- ***** web *****
 
 ***** web ***** --- visualisation
+
 visualisation --- automation
 
 automation --- visualisation
+
 visualisation --- ***** components / modules
 
 ***** components / modules --- visualisation
+
 visualisation --- SDK
 
 SDK --- visualisation
+
 visualisation --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- visualisation
+
 visualisation --- reliability
 
 reliability --- visualisation
+
 visualisation --- portability
 
 portability --- visualisation
+
 visualisation --- flexibility
 
 flexibility --- visualisation
+
 visualisation --- interoperability
 
 interoperability --- visualisation
+
 visualisation --- administrability / monitorability
 
 administrability / monitorability --- visualisation
+
 visualisation --- auditability / logability
 
 auditability / logability --- visualisation
+
 visualisation --- agent using ***** or many *****
 
 agent using ***** or many ***** --- visualisation
+
 visualisation --- ****** as a Service
 
 ****** as a Service --- visualisation
+
 visualisation --- transaction
 
 transaction --- visualisation
+
 visualisation --- management
 
 management --- visualisation
+
 visualisation --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- visualisation
+
 visualisation --- *****Ops
 
 *****Ops --- visualisation
+
 visualisation --- distributed *****
 
 distributed ***** --- visualisation
+
 visualisation --- industrial *****
 
 industrial ***** --- visualisation
+
 visualisation --- digital twin of *****
 
 digital twin of ***** --- visualisation
+
 visualisation --- processing of ***** signals
 
 processing of ***** signals --- visualisation
+
 visualisation --- optimisation
 
 optimisation --- visualisation
+
 visualisation --- algebra of *****
 
 algebra of ***** --- visualisation
+
 visualisation --- calculus of *****
 
 calculus of ***** --- visualisation
+
 visualisation --- applied *****
 
 applied ***** --- visualisation
+
 visualisation --- factory of *****
 
 factory of ***** --- visualisation
+
 visualisation --- ***** adapter
 
 ***** adapter --- visualisation
+
 visualisation --- bridge between ***** and *****
 
 bridge between ***** and ***** --- visualisation
+
 visualisation --- ***** controller
 
 ***** controller --- visualisation
+
 visualisation --- polymorphic *****
 
 polymorphic ***** --- visualisation
+
 converter --- network / grid of *****
 
 network / grid of ***** --- converter
+
 converter --- how to test *****
 
 how to test ***** --- converter
+
 converter --- API
 
 API --- converter
+
 converter --- front-end / back-end separation
 
 front-end / back-end separation --- converter
+
 converter --- compiler / interpreter
 
 compiler / interpreter --- converter
+
 converter --- integration with *****
 
 integration with ***** --- converter
+
 converter --- abstraction / generalisation
 
 abstraction / generalisation --- converter
+
 converter --- dependency
 
 dependency --- converter
+
 converter --- publish / subscribe
 
 publish / subscribe --- converter
+
 converter --- plugin
 
 plugin --- converter
+
 converter --- workflow / process engine
 
 workflow / process engine --- converter
+
 converter --- process / procedure
 
 process / procedure --- converter
+
 converter --- design pattern
 
 design pattern --- converter
+
 converter --- function
 
 function --- converter
+
 converter --- microkernel
 
 microkernel --- converter
+
 converter --- registry / repository
 
 registry / repository --- converter
+
 converter --- tool / toolchain
 
 tool / toolchain --- converter
+
 converter --- utility
 
 utility --- converter
+
 converter --- virtual
 
 virtual --- converter
+
 converter --- concurrent / parallel
 
 concurrent / parallel --- converter
+
 converter --- structured *****
 
 structured ***** --- converter
+
 converter --- ***** web *****
 
 ***** web ***** --- converter
+
 converter --- automation
 
 automation --- converter
+
 converter --- ***** components / modules
 
 ***** components / modules --- converter
+
 converter --- SDK
 
 SDK --- converter
+
 converter --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- converter
+
 converter --- reliability
 
 reliability --- converter
+
 converter --- portability
 
 portability --- converter
+
 converter --- flexibility
 
 flexibility --- converter
+
 converter --- interoperability
 
 interoperability --- converter
+
 converter --- administrability / monitorability
 
 administrability / monitorability --- converter
+
 converter --- auditability / logability
 
 auditability / logability --- converter
+
 converter --- agent using ***** or many *****
 
 agent using ***** or many ***** --- converter
+
 converter --- ****** as a Service
 
 ****** as a Service --- converter
+
 converter --- transaction
 
 transaction --- converter
+
 converter --- management
 
 management --- converter
+
 converter --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- converter
+
 converter --- *****Ops
 
 *****Ops --- converter
+
 converter --- distributed *****
 
 distributed ***** --- converter
+
 converter --- industrial *****
 
 industrial ***** --- converter
+
 converter --- digital twin of *****
 
 digital twin of ***** --- converter
+
 converter --- processing of ***** signals
 
 processing of ***** signals --- converter
+
 converter --- optimisation
 
 optimisation --- converter
+
 converter --- algebra of *****
 
 algebra of ***** --- converter
+
 converter --- calculus of *****
 
 calculus of ***** --- converter
+
 converter --- applied *****
 
 applied ***** --- converter
+
 converter --- factory of *****
 
 factory of ***** --- converter
+
 converter --- ***** adapter
 
 ***** adapter --- converter
+
 converter --- bridge between ***** and *****
 
 bridge between ***** and ***** --- converter
+
 converter --- ***** controller
 
 ***** controller --- converter
+
 converter --- polymorphic *****
 
 polymorphic ***** --- converter
+
 network / grid of ***** --- how to test *****
 
 how to test ***** --- network / grid of *****
+
 network / grid of ***** --- API
 
 API --- network / grid of *****
+
 network / grid of ***** --- front-end / back-end separation
 
 front-end / back-end separation --- network / grid of *****
+
 network / grid of ***** --- compiler / interpreter
 
 compiler / interpreter --- network / grid of *****
+
 network / grid of ***** --- integration with *****
 
 integration with ***** --- network / grid of *****
+
 network / grid of ***** --- abstraction / generalisation
 
 abstraction / generalisation --- network / grid of *****
+
 network / grid of ***** --- dependency
 
 dependency --- network / grid of *****
+
 network / grid of ***** --- publish / subscribe
 
 publish / subscribe --- network / grid of *****
+
 network / grid of ***** --- plugin
 
 plugin --- network / grid of *****
+
 network / grid of ***** --- workflow / process engine
 
 workflow / process engine --- network / grid of *****
+
 network / grid of ***** --- process / procedure
 
 process / procedure --- network / grid of *****
+
 network / grid of ***** --- design pattern
 
 design pattern --- network / grid of *****
+
 network / grid of ***** --- function
 
 function --- network / grid of *****
+
 network / grid of ***** --- microkernel
 
 microkernel --- network / grid of *****
+
 network / grid of ***** --- registry / repository
 
 registry / repository --- network / grid of *****
+
 network / grid of ***** --- tool / toolchain
 
 tool / toolchain --- network / grid of *****
+
 network / grid of ***** --- utility
 
 utility --- network / grid of *****
+
 network / grid of ***** --- virtual
 
 virtual --- network / grid of *****
+
 network / grid of ***** --- concurrent / parallel
 
 concurrent / parallel --- network / grid of *****
+
 network / grid of ***** --- structured *****
 
 structured ***** --- network / grid of *****
+
 network / grid of ***** --- ***** web *****
 
 ***** web ***** --- network / grid of *****
+
 network / grid of ***** --- automation
 
 automation --- network / grid of *****
+
 network / grid of ***** --- ***** components / modules
 
 ***** components / modules --- network / grid of *****
+
 network / grid of ***** --- SDK
 
 SDK --- network / grid of *****
+
 network / grid of ***** --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- network / grid of *****
+
 network / grid of ***** --- reliability
 
 reliability --- network / grid of *****
+
 network / grid of ***** --- portability
 
 portability --- network / grid of *****
+
 network / grid of ***** --- flexibility
 
 flexibility --- network / grid of *****
+
 network / grid of ***** --- interoperability
 
 interoperability --- network / grid of *****
+
 network / grid of ***** --- administrability / monitorability
 
 administrability / monitorability --- network / grid of *****
+
 network / grid of ***** --- auditability / logability
 
 auditability / logability --- network / grid of *****
+
 network / grid of ***** --- agent using ***** or many *****
 
 agent using ***** or many ***** --- network / grid of *****
+
 network / grid of ***** --- ****** as a Service
 
 ****** as a Service --- network / grid of *****
+
 network / grid of ***** --- transaction
 
 transaction --- network / grid of *****
+
 network / grid of ***** --- management
 
 management --- network / grid of *****
+
 network / grid of ***** --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- network / grid of *****
+
 network / grid of ***** --- *****Ops
 
 *****Ops --- network / grid of *****
+
 network / grid of ***** --- distributed *****
 
 distributed ***** --- network / grid of *****
+
 network / grid of ***** --- industrial *****
 
 industrial ***** --- network / grid of *****
+
 network / grid of ***** --- digital twin of *****
 
 digital twin of ***** --- network / grid of *****
+
 network / grid of ***** --- processing of ***** signals
 
 processing of ***** signals --- network / grid of *****
+
 network / grid of ***** --- optimisation
 
 optimisation --- network / grid of *****
+
 network / grid of ***** --- algebra of *****
 
 algebra of ***** --- network / grid of *****
+
 network / grid of ***** --- calculus of *****
 
 calculus of ***** --- network / grid of *****
+
 network / grid of ***** --- applied *****
 
 applied ***** --- network / grid of *****
+
 network / grid of ***** --- factory of *****
 
 factory of ***** --- network / grid of *****
+
 network / grid of ***** --- ***** adapter
 
 ***** adapter --- network / grid of *****
+
 network / grid of ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- network / grid of *****
+
 network / grid of ***** --- ***** controller
 
 ***** controller --- network / grid of *****
+
 network / grid of ***** --- polymorphic *****
 
 polymorphic ***** --- network / grid of *****
+
 how to test ***** --- API
 
 API --- how to test *****
+
 how to test ***** --- front-end / back-end separation
 
 front-end / back-end separation --- how to test *****
+
 how to test ***** --- compiler / interpreter
 
 compiler / interpreter --- how to test *****
+
 how to test ***** --- integration with *****
 
 integration with ***** --- how to test *****
+
 how to test ***** --- abstraction / generalisation
 
 abstraction / generalisation --- how to test *****
+
 how to test ***** --- dependency
 
 dependency --- how to test *****
+
 how to test ***** --- publish / subscribe
 
 publish / subscribe --- how to test *****
+
 how to test ***** --- plugin
 
 plugin --- how to test *****
+
 how to test ***** --- workflow / process engine
 
 workflow / process engine --- how to test *****
+
 how to test ***** --- process / procedure
 
 process / procedure --- how to test *****
+
 how to test ***** --- design pattern
 
 design pattern --- how to test *****
+
 how to test ***** --- function
 
 function --- how to test *****
+
 how to test ***** --- microkernel
 
 microkernel --- how to test *****
+
 how to test ***** --- registry / repository
 
 registry / repository --- how to test *****
+
 how to test ***** --- tool / toolchain
 
 tool / toolchain --- how to test *****
+
 how to test ***** --- utility
 
 utility --- how to test *****
+
 how to test ***** --- virtual
 
 virtual --- how to test *****
+
 how to test ***** --- concurrent / parallel
 
 concurrent / parallel --- how to test *****
+
 how to test ***** --- structured *****
 
 structured ***** --- how to test *****
+
 how to test ***** --- ***** web *****
 
 ***** web ***** --- how to test *****
+
 how to test ***** --- automation
 
 automation --- how to test *****
+
 how to test ***** --- ***** components / modules
 
 ***** components / modules --- how to test *****
+
 how to test ***** --- SDK
 
 SDK --- how to test *****
+
 how to test ***** --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- how to test *****
+
 how to test ***** --- reliability
 
 reliability --- how to test *****
+
 how to test ***** --- portability
 
 portability --- how to test *****
+
 how to test ***** --- flexibility
 
 flexibility --- how to test *****
+
 how to test ***** --- interoperability
 
 interoperability --- how to test *****
+
 how to test ***** --- administrability / monitorability
 
 administrability / monitorability --- how to test *****
+
 how to test ***** --- auditability / logability
 
 auditability / logability --- how to test *****
+
 how to test ***** --- agent using ***** or many *****
 
 agent using ***** or many ***** --- how to test *****
+
 how to test ***** --- ****** as a Service
 
 ****** as a Service --- how to test *****
+
 how to test ***** --- transaction
 
 transaction --- how to test *****
+
 how to test ***** --- management
 
 management --- how to test *****
+
 how to test ***** --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- how to test *****
+
 how to test ***** --- *****Ops
 
 *****Ops --- how to test *****
+
 how to test ***** --- distributed *****
 
 distributed ***** --- how to test *****
+
 how to test ***** --- industrial *****
 
 industrial ***** --- how to test *****
+
 how to test ***** --- digital twin of *****
 
 digital twin of ***** --- how to test *****
+
 how to test ***** --- processing of ***** signals
 
 processing of ***** signals --- how to test *****
+
 how to test ***** --- optimisation
 
 optimisation --- how to test *****
+
 how to test ***** --- algebra of *****
 
 algebra of ***** --- how to test *****
+
 how to test ***** --- calculus of *****
 
 calculus of ***** --- how to test *****
+
 how to test ***** --- applied *****
 
 applied ***** --- how to test *****
+
 how to test ***** --- factory of *****
 
 factory of ***** --- how to test *****
+
 how to test ***** --- ***** adapter
 
 ***** adapter --- how to test *****
+
 how to test ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- how to test *****
+
 how to test ***** --- ***** controller
 
 ***** controller --- how to test *****
+
 how to test ***** --- polymorphic *****
 
 polymorphic ***** --- how to test *****
+
 API --- front-end / back-end separation
 
 front-end / back-end separation --- API
+
 API --- compiler / interpreter
 
 compiler / interpreter --- API
+
 API --- integration with *****
 
 integration with ***** --- API
+
 API --- abstraction / generalisation
 
 abstraction / generalisation --- API
+
 API --- dependency
 
 dependency --- API
+
 API --- publish / subscribe
 
 publish / subscribe --- API
+
 API --- plugin
 
 plugin --- API
+
 API --- workflow / process engine
 
 workflow / process engine --- API
+
 API --- process / procedure
 
 process / procedure --- API
+
 API --- design pattern
 
 design pattern --- API
+
 API --- function
 
 function --- API
+
 API --- microkernel
 
 microkernel --- API
+
 API --- registry / repository
 
 registry / repository --- API
+
 API --- tool / toolchain
 
 tool / toolchain --- API
+
 API --- utility
 
 utility --- API
+
 API --- virtual
 
 virtual --- API
+
 API --- concurrent / parallel
 
 concurrent / parallel --- API
+
 API --- structured *****
 
 structured ***** --- API
+
 API --- ***** web *****
 
 ***** web ***** --- API
+
 API --- automation
 
 automation --- API
+
 API --- ***** components / modules
 
 ***** components / modules --- API
+
 API --- SDK
 
 SDK --- API
+
 API --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- API
+
 API --- reliability
 
 reliability --- API
+
 API --- portability
 
 portability --- API
+
 API --- flexibility
 
 flexibility --- API
+
 API --- interoperability
 
 interoperability --- API
+
 API --- administrability / monitorability
 
 administrability / monitorability --- API
+
 API --- auditability / logability
 
 auditability / logability --- API
+
 API --- agent using ***** or many *****
 
 agent using ***** or many ***** --- API
+
 API --- ****** as a Service
 
 ****** as a Service --- API
+
 API --- transaction
 
 transaction --- API
+
 API --- management
 
 management --- API
+
 API --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- API
+
 API --- *****Ops
 
 *****Ops --- API
+
 API --- distributed *****
 
 distributed ***** --- API
+
 API --- industrial *****
 
 industrial ***** --- API
+
 API --- digital twin of *****
 
 digital twin of ***** --- API
+
 API --- processing of ***** signals
 
 processing of ***** signals --- API
+
 API --- optimisation
 
 optimisation --- API
+
 API --- algebra of *****
 
 algebra of ***** --- API
+
 API --- calculus of *****
 
 calculus of ***** --- API
+
 API --- applied *****
 
 applied ***** --- API
+
 API --- factory of *****
 
 factory of ***** --- API
+
 API --- ***** adapter
 
 ***** adapter --- API
+
 API --- bridge between ***** and *****
 
 bridge between ***** and ***** --- API
+
 API --- ***** controller
 
 ***** controller --- API
+
 API --- polymorphic *****
 
 polymorphic ***** --- API
+
 front-end / back-end separation --- compiler / interpreter
 
 compiler / interpreter --- front-end / back-end separation
+
 front-end / back-end separation --- integration with *****
 
 integration with ***** --- front-end / back-end separation
+
 front-end / back-end separation --- abstraction / generalisation
 
 abstraction / generalisation --- front-end / back-end separation
+
 front-end / back-end separation --- dependency
 
 dependency --- front-end / back-end separation
+
 front-end / back-end separation --- publish / subscribe
 
 publish / subscribe --- front-end / back-end separation
+
 front-end / back-end separation --- plugin
 
 plugin --- front-end / back-end separation
+
 front-end / back-end separation --- workflow / process engine
 
 workflow / process engine --- front-end / back-end separation
+
 front-end / back-end separation --- process / procedure
 
 process / procedure --- front-end / back-end separation
+
 front-end / back-end separation --- design pattern
 
 design pattern --- front-end / back-end separation
+
 front-end / back-end separation --- function
 
 function --- front-end / back-end separation
+
 front-end / back-end separation --- microkernel
 
 microkernel --- front-end / back-end separation
+
 front-end / back-end separation --- registry / repository
 
 registry / repository --- front-end / back-end separation
+
 front-end / back-end separation --- tool / toolchain
 
 tool / toolchain --- front-end / back-end separation
+
 front-end / back-end separation --- utility
 
 utility --- front-end / back-end separation
+
 front-end / back-end separation --- virtual
 
 virtual --- front-end / back-end separation
+
 front-end / back-end separation --- concurrent / parallel
 
 concurrent / parallel --- front-end / back-end separation
+
 front-end / back-end separation --- structured *****
 
 structured ***** --- front-end / back-end separation
+
 front-end / back-end separation --- ***** web *****
 
 ***** web ***** --- front-end / back-end separation
+
 front-end / back-end separation --- automation
 
 automation --- front-end / back-end separation
+
 front-end / back-end separation --- ***** components / modules
 
 ***** components / modules --- front-end / back-end separation
+
 front-end / back-end separation --- SDK
 
 SDK --- front-end / back-end separation
+
 front-end / back-end separation --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- front-end / back-end separation
+
 front-end / back-end separation --- reliability
 
 reliability --- front-end / back-end separation
+
 front-end / back-end separation --- portability
 
 portability --- front-end / back-end separation
+
 front-end / back-end separation --- flexibility
 
 flexibility --- front-end / back-end separation
+
 front-end / back-end separation --- interoperability
 
 interoperability --- front-end / back-end separation
+
 front-end / back-end separation --- administrability / monitorability
 
 administrability / monitorability --- front-end / back-end separation
+
 front-end / back-end separation --- auditability / logability
 
 auditability / logability --- front-end / back-end separation
+
 front-end / back-end separation --- agent using ***** or many *****
 
 agent using ***** or many ***** --- front-end / back-end separation
+
 front-end / back-end separation --- ****** as a Service
 
 ****** as a Service --- front-end / back-end separation
+
 front-end / back-end separation --- transaction
 
 transaction --- front-end / back-end separation
+
 front-end / back-end separation --- management
 
 management --- front-end / back-end separation
+
 front-end / back-end separation --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- front-end / back-end separation
+
 front-end / back-end separation --- *****Ops
 
 *****Ops --- front-end / back-end separation
+
 front-end / back-end separation --- distributed *****
 
 distributed ***** --- front-end / back-end separation
+
 front-end / back-end separation --- industrial *****
 
 industrial ***** --- front-end / back-end separation
+
 front-end / back-end separation --- digital twin of *****
 
 digital twin of ***** --- front-end / back-end separation
+
 front-end / back-end separation --- processing of ***** signals
 
 processing of ***** signals --- front-end / back-end separation
+
 front-end / back-end separation --- optimisation
 
 optimisation --- front-end / back-end separation
+
 front-end / back-end separation --- algebra of *****
 
 algebra of ***** --- front-end / back-end separation
+
 front-end / back-end separation --- calculus of *****
 
 calculus of ***** --- front-end / back-end separation
+
 front-end / back-end separation --- applied *****
 
 applied ***** --- front-end / back-end separation
+
 front-end / back-end separation --- factory of *****
 
 factory of ***** --- front-end / back-end separation
+
 front-end / back-end separation --- ***** adapter
 
 ***** adapter --- front-end / back-end separation
+
 front-end / back-end separation --- bridge between ***** and *****
 
 bridge between ***** and ***** --- front-end / back-end separation
+
 front-end / back-end separation --- ***** controller
 
 ***** controller --- front-end / back-end separation
+
 front-end / back-end separation --- polymorphic *****
 
 polymorphic ***** --- front-end / back-end separation
+
 compiler / interpreter --- integration with *****
 
 integration with ***** --- compiler / interpreter
+
 compiler / interpreter --- abstraction / generalisation
 
 abstraction / generalisation --- compiler / interpreter
+
 compiler / interpreter --- dependency
 
 dependency --- compiler / interpreter
+
 compiler / interpreter --- publish / subscribe
 
 publish / subscribe --- compiler / interpreter
+
 compiler / interpreter --- plugin
 
 plugin --- compiler / interpreter
+
 compiler / interpreter --- workflow / process engine
 
 workflow / process engine --- compiler / interpreter
+
 compiler / interpreter --- process / procedure
 
 process / procedure --- compiler / interpreter
+
 compiler / interpreter --- design pattern
 
 design pattern --- compiler / interpreter
+
 compiler / interpreter --- function
 
 function --- compiler / interpreter
+
 compiler / interpreter --- microkernel
 
 microkernel --- compiler / interpreter
+
 compiler / interpreter --- registry / repository
 
 registry / repository --- compiler / interpreter
+
 compiler / interpreter --- tool / toolchain
 
 tool / toolchain --- compiler / interpreter
+
 compiler / interpreter --- utility
 
 utility --- compiler / interpreter
+
 compiler / interpreter --- virtual
 
 virtual --- compiler / interpreter
+
 compiler / interpreter --- concurrent / parallel
 
 concurrent / parallel --- compiler / interpreter
+
 compiler / interpreter --- structured *****
 
 structured ***** --- compiler / interpreter
+
 compiler / interpreter --- ***** web *****
 
 ***** web ***** --- compiler / interpreter
+
 compiler / interpreter --- automation
 
 automation --- compiler / interpreter
+
 compiler / interpreter --- ***** components / modules
 
 ***** components / modules --- compiler / interpreter
+
 compiler / interpreter --- SDK
 
 SDK --- compiler / interpreter
+
 compiler / interpreter --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- compiler / interpreter
+
 compiler / interpreter --- reliability
 
 reliability --- compiler / interpreter
+
 compiler / interpreter --- portability
 
 portability --- compiler / interpreter
+
 compiler / interpreter --- flexibility
 
 flexibility --- compiler / interpreter
+
 compiler / interpreter --- interoperability
 
 interoperability --- compiler / interpreter
+
 compiler / interpreter --- administrability / monitorability
 
 administrability / monitorability --- compiler / interpreter
+
 compiler / interpreter --- auditability / logability
 
 auditability / logability --- compiler / interpreter
+
 compiler / interpreter --- agent using ***** or many *****
 
 agent using ***** or many ***** --- compiler / interpreter
+
 compiler / interpreter --- ****** as a Service
 
 ****** as a Service --- compiler / interpreter
+
 compiler / interpreter --- transaction
 
 transaction --- compiler / interpreter
+
 compiler / interpreter --- management
 
 management --- compiler / interpreter
+
 compiler / interpreter --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- compiler / interpreter
+
 compiler / interpreter --- *****Ops
 
 *****Ops --- compiler / interpreter
+
 compiler / interpreter --- distributed *****
 
 distributed ***** --- compiler / interpreter
+
 compiler / interpreter --- industrial *****
 
 industrial ***** --- compiler / interpreter
+
 compiler / interpreter --- digital twin of *****
 
 digital twin of ***** --- compiler / interpreter
+
 compiler / interpreter --- processing of ***** signals
 
 processing of ***** signals --- compiler / interpreter
+
 compiler / interpreter --- optimisation
 
 optimisation --- compiler / interpreter
+
 compiler / interpreter --- algebra of *****
 
 algebra of ***** --- compiler / interpreter
+
 compiler / interpreter --- calculus of *****
 
 calculus of ***** --- compiler / interpreter
+
 compiler / interpreter --- applied *****
 
 applied ***** --- compiler / interpreter
+
 compiler / interpreter --- factory of *****
 
 factory of ***** --- compiler / interpreter
+
 compiler / interpreter --- ***** adapter
 
 ***** adapter --- compiler / interpreter
+
 compiler / interpreter --- bridge between ***** and *****
 
 bridge between ***** and ***** --- compiler / interpreter
+
 compiler / interpreter --- ***** controller
 
 ***** controller --- compiler / interpreter
+
 compiler / interpreter --- polymorphic *****
 
 polymorphic ***** --- compiler / interpreter
+
 integration with ***** --- abstraction / generalisation
 
 abstraction / generalisation --- integration with *****
+
 integration with ***** --- dependency
 
 dependency --- integration with *****
+
 integration with ***** --- publish / subscribe
 
 publish / subscribe --- integration with *****
+
 integration with ***** --- plugin
 
 plugin --- integration with *****
+
 integration with ***** --- workflow / process engine
 
 workflow / process engine --- integration with *****
+
 integration with ***** --- process / procedure
 
 process / procedure --- integration with *****
+
 integration with ***** --- design pattern
 
 design pattern --- integration with *****
+
 integration with ***** --- function
 
 function --- integration with *****
+
 integration with ***** --- microkernel
 
 microkernel --- integration with *****
+
 integration with ***** --- registry / repository
 
 registry / repository --- integration with *****
+
 integration with ***** --- tool / toolchain
 
 tool / toolchain --- integration with *****
+
 integration with ***** --- utility
 
 utility --- integration with *****
+
 integration with ***** --- virtual
 
 virtual --- integration with *****
+
 integration with ***** --- concurrent / parallel
 
 concurrent / parallel --- integration with *****
+
 integration with ***** --- structured *****
 
 structured ***** --- integration with *****
+
 integration with ***** --- ***** web *****
 
 ***** web ***** --- integration with *****
+
 integration with ***** --- automation
 
 automation --- integration with *****
+
 integration with ***** --- ***** components / modules
 
 ***** components / modules --- integration with *****
+
 integration with ***** --- SDK
 
 SDK --- integration with *****
+
 integration with ***** --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- integration with *****
+
 integration with ***** --- reliability
 
 reliability --- integration with *****
+
 integration with ***** --- portability
 
 portability --- integration with *****
+
 integration with ***** --- flexibility
 
 flexibility --- integration with *****
+
 integration with ***** --- interoperability
 
 interoperability --- integration with *****
+
 integration with ***** --- administrability / monitorability
 
 administrability / monitorability --- integration with *****
+
 integration with ***** --- auditability / logability
 
 auditability / logability --- integration with *****
+
 integration with ***** --- agent using ***** or many *****
 
 agent using ***** or many ***** --- integration with *****
+
 integration with ***** --- ****** as a Service
 
 ****** as a Service --- integration with *****
+
 integration with ***** --- transaction
 
 transaction --- integration with *****
+
 integration with ***** --- management
 
 management --- integration with *****
+
 integration with ***** --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- integration with *****
+
 integration with ***** --- *****Ops
 
 *****Ops --- integration with *****
+
 integration with ***** --- distributed *****
 
 distributed ***** --- integration with *****
+
 integration with ***** --- industrial *****
 
 industrial ***** --- integration with *****
+
 integration with ***** --- digital twin of *****
 
 digital twin of ***** --- integration with *****
+
 integration with ***** --- processing of ***** signals
 
 processing of ***** signals --- integration with *****
+
 integration with ***** --- optimisation
 
 optimisation --- integration with *****
+
 integration with ***** --- algebra of *****
 
 algebra of ***** --- integration with *****
+
 integration with ***** --- calculus of *****
 
 calculus of ***** --- integration with *****
+
 integration with ***** --- applied *****
 
 applied ***** --- integration with *****
+
 integration with ***** --- factory of *****
 
 factory of ***** --- integration with *****
+
 integration with ***** --- ***** adapter
 
 ***** adapter --- integration with *****
+
 integration with ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- integration with *****
+
 integration with ***** --- ***** controller
 
 ***** controller --- integration with *****
+
 integration with ***** --- polymorphic *****
 
 polymorphic ***** --- integration with *****
+
 abstraction / generalisation --- dependency
 
 dependency --- abstraction / generalisation
+
 abstraction / generalisation --- publish / subscribe
 
 publish / subscribe --- abstraction / generalisation
+
 abstraction / generalisation --- plugin
 
 plugin --- abstraction / generalisation
+
 abstraction / generalisation --- workflow / process engine
 
 workflow / process engine --- abstraction / generalisation
+
 abstraction / generalisation --- process / procedure
 
 process / procedure --- abstraction / generalisation
+
 abstraction / generalisation --- design pattern
 
 design pattern --- abstraction / generalisation
+
 abstraction / generalisation --- function
 
 function --- abstraction / generalisation
+
 abstraction / generalisation --- microkernel
 
 microkernel --- abstraction / generalisation
+
 abstraction / generalisation --- registry / repository
 
 registry / repository --- abstraction / generalisation
+
 abstraction / generalisation --- tool / toolchain
 
 tool / toolchain --- abstraction / generalisation
+
 abstraction / generalisation --- utility
 
 utility --- abstraction / generalisation
+
 abstraction / generalisation --- virtual
 
 virtual --- abstraction / generalisation
+
 abstraction / generalisation --- concurrent / parallel
 
 concurrent / parallel --- abstraction / generalisation
+
 abstraction / generalisation --- structured *****
 
 structured ***** --- abstraction / generalisation
+
 abstraction / generalisation --- ***** web *****
 
 ***** web ***** --- abstraction / generalisation
+
 abstraction / generalisation --- automation
 
 automation --- abstraction / generalisation
+
 abstraction / generalisation --- ***** components / modules
 
 ***** components / modules --- abstraction / generalisation
+
 abstraction / generalisation --- SDK
 
 SDK --- abstraction / generalisation
+
 abstraction / generalisation --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- abstraction / generalisation
+
 abstraction / generalisation --- reliability
 
 reliability --- abstraction / generalisation
+
 abstraction / generalisation --- portability
 
 portability --- abstraction / generalisation
+
 abstraction / generalisation --- flexibility
 
 flexibility --- abstraction / generalisation
+
 abstraction / generalisation --- interoperability
 
 interoperability --- abstraction / generalisation
+
 abstraction / generalisation --- administrability / monitorability
 
 administrability / monitorability --- abstraction / generalisation
+
 abstraction / generalisation --- auditability / logability
 
 auditability / logability --- abstraction / generalisation
+
 abstraction / generalisation --- agent using ***** or many *****
 
 agent using ***** or many ***** --- abstraction / generalisation
+
 abstraction / generalisation --- ****** as a Service
 
 ****** as a Service --- abstraction / generalisation
+
 abstraction / generalisation --- transaction
 
 transaction --- abstraction / generalisation
+
 abstraction / generalisation --- management
 
 management --- abstraction / generalisation
+
 abstraction / generalisation --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- abstraction / generalisation
+
 abstraction / generalisation --- *****Ops
 
 *****Ops --- abstraction / generalisation
+
 abstraction / generalisation --- distributed *****
 
 distributed ***** --- abstraction / generalisation
+
 abstraction / generalisation --- industrial *****
 
 industrial ***** --- abstraction / generalisation
+
 abstraction / generalisation --- digital twin of *****
 
 digital twin of ***** --- abstraction / generalisation
+
 abstraction / generalisation --- processing of ***** signals
 
 processing of ***** signals --- abstraction / generalisation
+
 abstraction / generalisation --- optimisation
 
 optimisation --- abstraction / generalisation
+
 abstraction / generalisation --- algebra of *****
 
 algebra of ***** --- abstraction / generalisation
+
 abstraction / generalisation --- calculus of *****
 
 calculus of ***** --- abstraction / generalisation
+
 abstraction / generalisation --- applied *****
 
 applied ***** --- abstraction / generalisation
+
 abstraction / generalisation --- factory of *****
 
 factory of ***** --- abstraction / generalisation
+
 abstraction / generalisation --- ***** adapter
 
 ***** adapter --- abstraction / generalisation
+
 abstraction / generalisation --- bridge between ***** and *****
 
 bridge between ***** and ***** --- abstraction / generalisation
+
 abstraction / generalisation --- ***** controller
 
 ***** controller --- abstraction / generalisation
+
 abstraction / generalisation --- polymorphic *****
 
 polymorphic ***** --- abstraction / generalisation
+
 dependency --- publish / subscribe
 
 publish / subscribe --- dependency
+
 dependency --- plugin
 
 plugin --- dependency
+
 dependency --- workflow / process engine
 
 workflow / process engine --- dependency
+
 dependency --- process / procedure
 
 process / procedure --- dependency
+
 dependency --- design pattern
 
 design pattern --- dependency
+
 dependency --- function
 
 function --- dependency
+
 dependency --- microkernel
 
 microkernel --- dependency
+
 dependency --- registry / repository
 
 registry / repository --- dependency
+
 dependency --- tool / toolchain
 
 tool / toolchain --- dependency
+
 dependency --- utility
 
 utility --- dependency
+
 dependency --- virtual
 
 virtual --- dependency
+
 dependency --- concurrent / parallel
 
 concurrent / parallel --- dependency
+
 dependency --- structured *****
 
 structured ***** --- dependency
+
 dependency --- ***** web *****
 
 ***** web ***** --- dependency
+
 dependency --- automation
 
 automation --- dependency
+
 dependency --- ***** components / modules
 
 ***** components / modules --- dependency
+
 dependency --- SDK
 
 SDK --- dependency
+
 dependency --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- dependency
+
 dependency --- reliability
 
 reliability --- dependency
+
 dependency --- portability
 
 portability --- dependency
+
 dependency --- flexibility
 
 flexibility --- dependency
+
 dependency --- interoperability
 
 interoperability --- dependency
+
 dependency --- administrability / monitorability
 
 administrability / monitorability --- dependency
+
 dependency --- auditability / logability
 
 auditability / logability --- dependency
+
 dependency --- agent using ***** or many *****
 
 agent using ***** or many ***** --- dependency
+
 dependency --- ****** as a Service
 
 ****** as a Service --- dependency
+
 dependency --- transaction
 
 transaction --- dependency
+
 dependency --- management
 
 management --- dependency
+
 dependency --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- dependency
+
 dependency --- *****Ops
 
 *****Ops --- dependency
+
 dependency --- distributed *****
 
 distributed ***** --- dependency
+
 dependency --- industrial *****
 
 industrial ***** --- dependency
+
 dependency --- digital twin of *****
 
 digital twin of ***** --- dependency
+
 dependency --- processing of ***** signals
 
 processing of ***** signals --- dependency
+
 dependency --- optimisation
 
 optimisation --- dependency
+
 dependency --- algebra of *****
 
 algebra of ***** --- dependency
+
 dependency --- calculus of *****
 
 calculus of ***** --- dependency
+
 dependency --- applied *****
 
 applied ***** --- dependency
+
 dependency --- factory of *****
 
 factory of ***** --- dependency
+
 dependency --- ***** adapter
 
 ***** adapter --- dependency
+
 dependency --- bridge between ***** and *****
 
 bridge between ***** and ***** --- dependency
+
 dependency --- ***** controller
 
 ***** controller --- dependency
+
 dependency --- polymorphic *****
 
 polymorphic ***** --- dependency
+
 publish / subscribe --- plugin
 
 plugin --- publish / subscribe
+
 publish / subscribe --- workflow / process engine
 
 workflow / process engine --- publish / subscribe
+
 publish / subscribe --- process / procedure
 
 process / procedure --- publish / subscribe
+
 publish / subscribe --- design pattern
 
 design pattern --- publish / subscribe
+
 publish / subscribe --- function
 
 function --- publish / subscribe
+
 publish / subscribe --- microkernel
 
 microkernel --- publish / subscribe
+
 publish / subscribe --- registry / repository
 
 registry / repository --- publish / subscribe
+
 publish / subscribe --- tool / toolchain
 
 tool / toolchain --- publish / subscribe
+
 publish / subscribe --- utility
 
 utility --- publish / subscribe
+
 publish / subscribe --- virtual
 
 virtual --- publish / subscribe
+
 publish / subscribe --- concurrent / parallel
 
 concurrent / parallel --- publish / subscribe
+
 publish / subscribe --- structured *****
 
 structured ***** --- publish / subscribe
+
 publish / subscribe --- ***** web *****
 
 ***** web ***** --- publish / subscribe
+
 publish / subscribe --- automation
 
 automation --- publish / subscribe
+
 publish / subscribe --- ***** components / modules
 
 ***** components / modules --- publish / subscribe
+
 publish / subscribe --- SDK
 
 SDK --- publish / subscribe
+
 publish / subscribe --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- publish / subscribe
+
 publish / subscribe --- reliability
 
 reliability --- publish / subscribe
+
 publish / subscribe --- portability
 
 portability --- publish / subscribe
+
 publish / subscribe --- flexibility
 
 flexibility --- publish / subscribe
+
 publish / subscribe --- interoperability
 
 interoperability --- publish / subscribe
+
 publish / subscribe --- administrability / monitorability
 
 administrability / monitorability --- publish / subscribe
+
 publish / subscribe --- auditability / logability
 
 auditability / logability --- publish / subscribe
+
 publish / subscribe --- agent using ***** or many *****
 
 agent using ***** or many ***** --- publish / subscribe
+
 publish / subscribe --- ****** as a Service
 
 ****** as a Service --- publish / subscribe
+
 publish / subscribe --- transaction
 
 transaction --- publish / subscribe
+
 publish / subscribe --- management
 
 management --- publish / subscribe
+
 publish / subscribe --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- publish / subscribe
+
 publish / subscribe --- *****Ops
 
 *****Ops --- publish / subscribe
+
 publish / subscribe --- distributed *****
 
 distributed ***** --- publish / subscribe
+
 publish / subscribe --- industrial *****
 
 industrial ***** --- publish / subscribe
+
 publish / subscribe --- digital twin of *****
 
 digital twin of ***** --- publish / subscribe
+
 publish / subscribe --- processing of ***** signals
 
 processing of ***** signals --- publish / subscribe
+
 publish / subscribe --- optimisation
 
 optimisation --- publish / subscribe
+
 publish / subscribe --- algebra of *****
 
 algebra of ***** --- publish / subscribe
+
 publish / subscribe --- calculus of *****
 
 calculus of ***** --- publish / subscribe
+
 publish / subscribe --- applied *****
 
 applied ***** --- publish / subscribe
+
 publish / subscribe --- factory of *****
 
 factory of ***** --- publish / subscribe
+
 publish / subscribe --- ***** adapter
 
 ***** adapter --- publish / subscribe
+
 publish / subscribe --- bridge between ***** and *****
 
 bridge between ***** and ***** --- publish / subscribe
+
 publish / subscribe --- ***** controller
 
 ***** controller --- publish / subscribe
+
 publish / subscribe --- polymorphic *****
 
 polymorphic ***** --- publish / subscribe
+
 plugin --- workflow / process engine
 
 workflow / process engine --- plugin
+
 plugin --- process / procedure
 
 process / procedure --- plugin
+
 plugin --- design pattern
 
 design pattern --- plugin
+
 plugin --- function
 
 function --- plugin
+
 plugin --- microkernel
 
 microkernel --- plugin
+
 plugin --- registry / repository
 
 registry / repository --- plugin
+
 plugin --- tool / toolchain
 
 tool / toolchain --- plugin
+
 plugin --- utility
 
 utility --- plugin
+
 plugin --- virtual
 
 virtual --- plugin
+
 plugin --- concurrent / parallel
 
 concurrent / parallel --- plugin
+
 plugin --- structured *****
 
 structured ***** --- plugin
+
 plugin --- ***** web *****
 
 ***** web ***** --- plugin
+
 plugin --- automation
 
 automation --- plugin
+
 plugin --- ***** components / modules
 
 ***** components / modules --- plugin
+
 plugin --- SDK
 
 SDK --- plugin
+
 plugin --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- plugin
+
 plugin --- reliability
 
 reliability --- plugin
+
 plugin --- portability
 
 portability --- plugin
+
 plugin --- flexibility
 
 flexibility --- plugin
+
 plugin --- interoperability
 
 interoperability --- plugin
+
 plugin --- administrability / monitorability
 
 administrability / monitorability --- plugin
+
 plugin --- auditability / logability
 
 auditability / logability --- plugin
+
 plugin --- agent using ***** or many *****
 
 agent using ***** or many ***** --- plugin
+
 plugin --- ****** as a Service
 
 ****** as a Service --- plugin
+
 plugin --- transaction
 
 transaction --- plugin
+
 plugin --- management
 
 management --- plugin
+
 plugin --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- plugin
+
 plugin --- *****Ops
 
 *****Ops --- plugin
+
 plugin --- distributed *****
 
 distributed ***** --- plugin
+
 plugin --- industrial *****
 
 industrial ***** --- plugin
+
 plugin --- digital twin of *****
 
 digital twin of ***** --- plugin
+
 plugin --- processing of ***** signals
 
 processing of ***** signals --- plugin
+
 plugin --- optimisation
 
 optimisation --- plugin
+
 plugin --- algebra of *****
 
 algebra of ***** --- plugin
+
 plugin --- calculus of *****
 
 calculus of ***** --- plugin
+
 plugin --- applied *****
 
 applied ***** --- plugin
+
 plugin --- factory of *****
 
 factory of ***** --- plugin
+
 plugin --- ***** adapter
 
 ***** adapter --- plugin
+
 plugin --- bridge between ***** and *****
 
 bridge between ***** and ***** --- plugin
+
 plugin --- ***** controller
 
 ***** controller --- plugin
+
 plugin --- polymorphic *****
 
 polymorphic ***** --- plugin
+
 workflow / process engine --- process / procedure
 
 process / procedure --- workflow / process engine
+
 workflow / process engine --- design pattern
 
 design pattern --- workflow / process engine
+
 workflow / process engine --- function
 
 function --- workflow / process engine
+
 workflow / process engine --- microkernel
 
 microkernel --- workflow / process engine
+
 workflow / process engine --- registry / repository
 
 registry / repository --- workflow / process engine
+
 workflow / process engine --- tool / toolchain
 
 tool / toolchain --- workflow / process engine
+
 workflow / process engine --- utility
 
 utility --- workflow / process engine
+
 workflow / process engine --- virtual
 
 virtual --- workflow / process engine
+
 workflow / process engine --- concurrent / parallel
 
 concurrent / parallel --- workflow / process engine
+
 workflow / process engine --- structured *****
 
 structured ***** --- workflow / process engine
+
 workflow / process engine --- ***** web *****
 
 ***** web ***** --- workflow / process engine
+
 workflow / process engine --- automation
 
 automation --- workflow / process engine
+
 workflow / process engine --- ***** components / modules
 
 ***** components / modules --- workflow / process engine
+
 workflow / process engine --- SDK
 
 SDK --- workflow / process engine
+
 workflow / process engine --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- workflow / process engine
+
 workflow / process engine --- reliability
 
 reliability --- workflow / process engine
+
 workflow / process engine --- portability
 
 portability --- workflow / process engine
+
 workflow / process engine --- flexibility
 
 flexibility --- workflow / process engine
+
 workflow / process engine --- interoperability
 
 interoperability --- workflow / process engine
+
 workflow / process engine --- administrability / monitorability
 
 administrability / monitorability --- workflow / process engine
+
 workflow / process engine --- auditability / logability
 
 auditability / logability --- workflow / process engine
+
 workflow / process engine --- agent using ***** or many *****
 
 agent using ***** or many ***** --- workflow / process engine
+
 workflow / process engine --- ****** as a Service
 
 ****** as a Service --- workflow / process engine
+
 workflow / process engine --- transaction
 
 transaction --- workflow / process engine
+
 workflow / process engine --- management
 
 management --- workflow / process engine
+
 workflow / process engine --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- workflow / process engine
+
 workflow / process engine --- *****Ops
 
 *****Ops --- workflow / process engine
+
 workflow / process engine --- distributed *****
 
 distributed ***** --- workflow / process engine
+
 workflow / process engine --- industrial *****
 
 industrial ***** --- workflow / process engine
+
 workflow / process engine --- digital twin of *****
 
 digital twin of ***** --- workflow / process engine
+
 workflow / process engine --- processing of ***** signals
 
 processing of ***** signals --- workflow / process engine
+
 workflow / process engine --- optimisation
 
 optimisation --- workflow / process engine
+
 workflow / process engine --- algebra of *****
 
 algebra of ***** --- workflow / process engine
+
 workflow / process engine --- calculus of *****
 
 calculus of ***** --- workflow / process engine
+
 workflow / process engine --- applied *****
 
 applied ***** --- workflow / process engine
+
 workflow / process engine --- factory of *****
 
 factory of ***** --- workflow / process engine
+
 workflow / process engine --- ***** adapter
 
 ***** adapter --- workflow / process engine
+
 workflow / process engine --- bridge between ***** and *****
 
 bridge between ***** and ***** --- workflow / process engine
+
 workflow / process engine --- ***** controller
 
 ***** controller --- workflow / process engine
+
 workflow / process engine --- polymorphic *****
 
 polymorphic ***** --- workflow / process engine
+
 process / procedure --- design pattern
 
 design pattern --- process / procedure
+
 process / procedure --- function
 
 function --- process / procedure
+
 process / procedure --- microkernel
 
 microkernel --- process / procedure
+
 process / procedure --- registry / repository
 
 registry / repository --- process / procedure
+
 process / procedure --- tool / toolchain
 
 tool / toolchain --- process / procedure
+
 process / procedure --- utility
 
 utility --- process / procedure
+
 process / procedure --- virtual
 
 virtual --- process / procedure
+
 process / procedure --- concurrent / parallel
 
 concurrent / parallel --- process / procedure
+
 process / procedure --- structured *****
 
 structured ***** --- process / procedure
+
 process / procedure --- ***** web *****
 
 ***** web ***** --- process / procedure
+
 process / procedure --- automation
 
 automation --- process / procedure
+
 process / procedure --- ***** components / modules
 
 ***** components / modules --- process / procedure
+
 process / procedure --- SDK
 
 SDK --- process / procedure
+
 process / procedure --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- process / procedure
+
 process / procedure --- reliability
 
 reliability --- process / procedure
+
 process / procedure --- portability
 
 portability --- process / procedure
+
 process / procedure --- flexibility
 
 flexibility --- process / procedure
+
 process / procedure --- interoperability
 
 interoperability --- process / procedure
+
 process / procedure --- administrability / monitorability
 
 administrability / monitorability --- process / procedure
+
 process / procedure --- auditability / logability
 
 auditability / logability --- process / procedure
+
 process / procedure --- agent using ***** or many *****
 
 agent using ***** or many ***** --- process / procedure
+
 process / procedure --- ****** as a Service
 
 ****** as a Service --- process / procedure
+
 process / procedure --- transaction
 
 transaction --- process / procedure
+
 process / procedure --- management
 
 management --- process / procedure
+
 process / procedure --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- process / procedure
+
 process / procedure --- *****Ops
 
 *****Ops --- process / procedure
+
 process / procedure --- distributed *****
 
 distributed ***** --- process / procedure
+
 process / procedure --- industrial *****
 
 industrial ***** --- process / procedure
+
 process / procedure --- digital twin of *****
 
 digital twin of ***** --- process / procedure
+
 process / procedure --- processing of ***** signals
 
 processing of ***** signals --- process / procedure
+
 process / procedure --- optimisation
 
 optimisation --- process / procedure
+
 process / procedure --- algebra of *****
 
 algebra of ***** --- process / procedure
+
 process / procedure --- calculus of *****
 
 calculus of ***** --- process / procedure
+
 process / procedure --- applied *****
 
 applied ***** --- process / procedure
+
 process / procedure --- factory of *****
 
 factory of ***** --- process / procedure
+
 process / procedure --- ***** adapter
 
 ***** adapter --- process / procedure
+
 process / procedure --- bridge between ***** and *****
 
 bridge between ***** and ***** --- process / procedure
+
 process / procedure --- ***** controller
 
 ***** controller --- process / procedure
+
 process / procedure --- polymorphic *****
 
 polymorphic ***** --- process / procedure
+
 design pattern --- function
 
 function --- design pattern
+
 design pattern --- microkernel
 
 microkernel --- design pattern
+
 design pattern --- registry / repository
 
 registry / repository --- design pattern
+
 design pattern --- tool / toolchain
 
 tool / toolchain --- design pattern
+
 design pattern --- utility
 
 utility --- design pattern
+
 design pattern --- virtual
 
 virtual --- design pattern
+
 design pattern --- concurrent / parallel
 
 concurrent / parallel --- design pattern
+
 design pattern --- structured *****
 
 structured ***** --- design pattern
+
 design pattern --- ***** web *****
 
 ***** web ***** --- design pattern
+
 design pattern --- automation
 
 automation --- design pattern
+
 design pattern --- ***** components / modules
 
 ***** components / modules --- design pattern
+
 design pattern --- SDK
 
 SDK --- design pattern
+
 design pattern --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- design pattern
+
 design pattern --- reliability
 
 reliability --- design pattern
+
 design pattern --- portability
 
 portability --- design pattern
+
 design pattern --- flexibility
 
 flexibility --- design pattern
+
 design pattern --- interoperability
 
 interoperability --- design pattern
+
 design pattern --- administrability / monitorability
 
 administrability / monitorability --- design pattern
+
 design pattern --- auditability / logability
 
 auditability / logability --- design pattern
+
 design pattern --- agent using ***** or many *****
 
 agent using ***** or many ***** --- design pattern
+
 design pattern --- ****** as a Service
 
 ****** as a Service --- design pattern
+
 design pattern --- transaction
 
 transaction --- design pattern
+
 design pattern --- management
 
 management --- design pattern
+
 design pattern --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- design pattern
+
 design pattern --- *****Ops
 
 *****Ops --- design pattern
+
 design pattern --- distributed *****
 
 distributed ***** --- design pattern
+
 design pattern --- industrial *****
 
 industrial ***** --- design pattern
+
 design pattern --- digital twin of *****
 
 digital twin of ***** --- design pattern
+
 design pattern --- processing of ***** signals
 
 processing of ***** signals --- design pattern
+
 design pattern --- optimisation
 
 optimisation --- design pattern
+
 design pattern --- algebra of *****
 
 algebra of ***** --- design pattern
+
 design pattern --- calculus of *****
 
 calculus of ***** --- design pattern
+
 design pattern --- applied *****
 
 applied ***** --- design pattern
+
 design pattern --- factory of *****
 
 factory of ***** --- design pattern
+
 design pattern --- ***** adapter
 
 ***** adapter --- design pattern
+
 design pattern --- bridge between ***** and *****
 
 bridge between ***** and ***** --- design pattern
+
 design pattern --- ***** controller
 
 ***** controller --- design pattern
+
 design pattern --- polymorphic *****
 
 polymorphic ***** --- design pattern
+
 function --- microkernel
 
 microkernel --- function
+
 function --- registry / repository
 
 registry / repository --- function
+
 function --- tool / toolchain
 
 tool / toolchain --- function
+
 function --- utility
 
 utility --- function
+
 function --- virtual
 
 virtual --- function
+
 function --- concurrent / parallel
 
 concurrent / parallel --- function
+
 function --- structured *****
 
 structured ***** --- function
+
 function --- ***** web *****
 
 ***** web ***** --- function
+
 function --- automation
 
 automation --- function
+
 function --- ***** components / modules
 
 ***** components / modules --- function
+
 function --- SDK
 
 SDK --- function
+
 function --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- function
+
 function --- reliability
 
 reliability --- function
+
 function --- portability
 
 portability --- function
+
 function --- flexibility
 
 flexibility --- function
+
 function --- interoperability
 
 interoperability --- function
+
 function --- administrability / monitorability
 
 administrability / monitorability --- function
+
 function --- auditability / logability
 
 auditability / logability --- function
+
 function --- agent using ***** or many *****
 
 agent using ***** or many ***** --- function
+
 function --- ****** as a Service
 
 ****** as a Service --- function
+
 function --- transaction
 
 transaction --- function
+
 function --- management
 
 management --- function
+
 function --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- function
+
 function --- *****Ops
 
 *****Ops --- function
+
 function --- distributed *****
 
 distributed ***** --- function
+
 function --- industrial *****
 
 industrial ***** --- function
+
 function --- digital twin of *****
 
 digital twin of ***** --- function
+
 function --- processing of ***** signals
 
 processing of ***** signals --- function
+
 function --- optimisation
 
 optimisation --- function
+
 function --- algebra of *****
 
 algebra of ***** --- function
+
 function --- calculus of *****
 
 calculus of ***** --- function
+
 function --- applied *****
 
 applied ***** --- function
+
 function --- factory of *****
 
 factory of ***** --- function
+
 function --- ***** adapter
 
 ***** adapter --- function
+
 function --- bridge between ***** and *****
 
 bridge between ***** and ***** --- function
+
 function --- ***** controller
 
 ***** controller --- function
+
 function --- polymorphic *****
 
 polymorphic ***** --- function
+
 microkernel --- registry / repository
 
 registry / repository --- microkernel
+
 microkernel --- tool / toolchain
 
 tool / toolchain --- microkernel
+
 microkernel --- utility
 
 utility --- microkernel
+
 microkernel --- virtual
 
 virtual --- microkernel
+
 microkernel --- concurrent / parallel
 
 concurrent / parallel --- microkernel
+
 microkernel --- structured *****
 
 structured ***** --- microkernel
+
 microkernel --- ***** web *****
 
 ***** web ***** --- microkernel
+
 microkernel --- automation
 
 automation --- microkernel
+
 microkernel --- ***** components / modules
 
 ***** components / modules --- microkernel
+
 microkernel --- SDK
 
 SDK --- microkernel
+
 microkernel --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- microkernel
+
 microkernel --- reliability
 
 reliability --- microkernel
+
 microkernel --- portability
 
 portability --- microkernel
+
 microkernel --- flexibility
 
 flexibility --- microkernel
+
 microkernel --- interoperability
 
 interoperability --- microkernel
+
 microkernel --- administrability / monitorability
 
 administrability / monitorability --- microkernel
+
 microkernel --- auditability / logability
 
 auditability / logability --- microkernel
+
 microkernel --- agent using ***** or many *****
 
 agent using ***** or many ***** --- microkernel
+
 microkernel --- ****** as a Service
 
 ****** as a Service --- microkernel
+
 microkernel --- transaction
 
 transaction --- microkernel
+
 microkernel --- management
 
 management --- microkernel
+
 microkernel --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- microkernel
+
 microkernel --- *****Ops
 
 *****Ops --- microkernel
+
 microkernel --- distributed *****
 
 distributed ***** --- microkernel
+
 microkernel --- industrial *****
 
 industrial ***** --- microkernel
+
 microkernel --- digital twin of *****
 
 digital twin of ***** --- microkernel
+
 microkernel --- processing of ***** signals
 
 processing of ***** signals --- microkernel
+
 microkernel --- optimisation
 
 optimisation --- microkernel
+
 microkernel --- algebra of *****
 
 algebra of ***** --- microkernel
+
 microkernel --- calculus of *****
 
 calculus of ***** --- microkernel
+
 microkernel --- applied *****
 
 applied ***** --- microkernel
+
 microkernel --- factory of *****
 
 factory of ***** --- microkernel
+
 microkernel --- ***** adapter
 
 ***** adapter --- microkernel
+
 microkernel --- bridge between ***** and *****
 
 bridge between ***** and ***** --- microkernel
+
 microkernel --- ***** controller
 
 ***** controller --- microkernel
+
 microkernel --- polymorphic *****
 
 polymorphic ***** --- microkernel
+
 registry / repository --- tool / toolchain
 
 tool / toolchain --- registry / repository
+
 registry / repository --- utility
 
 utility --- registry / repository
+
 registry / repository --- virtual
 
 virtual --- registry / repository
+
 registry / repository --- concurrent / parallel
 
 concurrent / parallel --- registry / repository
+
 registry / repository --- structured *****
 
 structured ***** --- registry / repository
+
 registry / repository --- ***** web *****
 
 ***** web ***** --- registry / repository
+
 registry / repository --- automation
 
 automation --- registry / repository
+
 registry / repository --- ***** components / modules
 
 ***** components / modules --- registry / repository
+
 registry / repository --- SDK
 
 SDK --- registry / repository
+
 registry / repository --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- registry / repository
+
 registry / repository --- reliability
 
 reliability --- registry / repository
+
 registry / repository --- portability
 
 portability --- registry / repository
+
 registry / repository --- flexibility
 
 flexibility --- registry / repository
+
 registry / repository --- interoperability
 
 interoperability --- registry / repository
+
 registry / repository --- administrability / monitorability
 
 administrability / monitorability --- registry / repository
+
 registry / repository --- auditability / logability
 
 auditability / logability --- registry / repository
+
 registry / repository --- agent using ***** or many *****
 
 agent using ***** or many ***** --- registry / repository
+
 registry / repository --- ****** as a Service
 
 ****** as a Service --- registry / repository
+
 registry / repository --- transaction
 
 transaction --- registry / repository
+
 registry / repository --- management
 
 management --- registry / repository
+
 registry / repository --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- registry / repository
+
 registry / repository --- *****Ops
 
 *****Ops --- registry / repository
+
 registry / repository --- distributed *****
 
 distributed ***** --- registry / repository
+
 registry / repository --- industrial *****
 
 industrial ***** --- registry / repository
+
 registry / repository --- digital twin of *****
 
 digital twin of ***** --- registry / repository
+
 registry / repository --- processing of ***** signals
 
 processing of ***** signals --- registry / repository
+
 registry / repository --- optimisation
 
 optimisation --- registry / repository
+
 registry / repository --- algebra of *****
 
 algebra of ***** --- registry / repository
+
 registry / repository --- calculus of *****
 
 calculus of ***** --- registry / repository
+
 registry / repository --- applied *****
 
 applied ***** --- registry / repository
+
 registry / repository --- factory of *****
 
 factory of ***** --- registry / repository
+
 registry / repository --- ***** adapter
 
 ***** adapter --- registry / repository
+
 registry / repository --- bridge between ***** and *****
 
 bridge between ***** and ***** --- registry / repository
+
 registry / repository --- ***** controller
 
 ***** controller --- registry / repository
+
 registry / repository --- polymorphic *****
 
 polymorphic ***** --- registry / repository
+
 tool / toolchain --- utility
 
 utility --- tool / toolchain
+
 tool / toolchain --- virtual
 
 virtual --- tool / toolchain
+
 tool / toolchain --- concurrent / parallel
 
 concurrent / parallel --- tool / toolchain
+
 tool / toolchain --- structured *****
 
 structured ***** --- tool / toolchain
+
 tool / toolchain --- ***** web *****
 
 ***** web ***** --- tool / toolchain
+
 tool / toolchain --- automation
 
 automation --- tool / toolchain
+
 tool / toolchain --- ***** components / modules
 
 ***** components / modules --- tool / toolchain
+
 tool / toolchain --- SDK
 
 SDK --- tool / toolchain
+
 tool / toolchain --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- tool / toolchain
+
 tool / toolchain --- reliability
 
 reliability --- tool / toolchain
+
 tool / toolchain --- portability
 
 portability --- tool / toolchain
+
 tool / toolchain --- flexibility
 
 flexibility --- tool / toolchain
+
 tool / toolchain --- interoperability
 
 interoperability --- tool / toolchain
+
 tool / toolchain --- administrability / monitorability
 
 administrability / monitorability --- tool / toolchain
+
 tool / toolchain --- auditability / logability
 
 auditability / logability --- tool / toolchain
+
 tool / toolchain --- agent using ***** or many *****
 
 agent using ***** or many ***** --- tool / toolchain
+
 tool / toolchain --- ****** as a Service
 
 ****** as a Service --- tool / toolchain
+
 tool / toolchain --- transaction
 
 transaction --- tool / toolchain
+
 tool / toolchain --- management
 
 management --- tool / toolchain
+
 tool / toolchain --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- tool / toolchain
+
 tool / toolchain --- *****Ops
 
 *****Ops --- tool / toolchain
+
 tool / toolchain --- distributed *****
 
 distributed ***** --- tool / toolchain
+
 tool / toolchain --- industrial *****
 
 industrial ***** --- tool / toolchain
+
 tool / toolchain --- digital twin of *****
 
 digital twin of ***** --- tool / toolchain
+
 tool / toolchain --- processing of ***** signals
 
 processing of ***** signals --- tool / toolchain
+
 tool / toolchain --- optimisation
 
 optimisation --- tool / toolchain
+
 tool / toolchain --- algebra of *****
 
 algebra of ***** --- tool / toolchain
+
 tool / toolchain --- calculus of *****
 
 calculus of ***** --- tool / toolchain
+
 tool / toolchain --- applied *****
 
 applied ***** --- tool / toolchain
+
 tool / toolchain --- factory of *****
 
 factory of ***** --- tool / toolchain
+
 tool / toolchain --- ***** adapter
 
 ***** adapter --- tool / toolchain
+
 tool / toolchain --- bridge between ***** and *****
 
 bridge between ***** and ***** --- tool / toolchain
+
 tool / toolchain --- ***** controller
 
 ***** controller --- tool / toolchain
+
 tool / toolchain --- polymorphic *****
 
 polymorphic ***** --- tool / toolchain
+
 utility --- virtual
 
 virtual --- utility
+
 utility --- concurrent / parallel
 
 concurrent / parallel --- utility
+
 utility --- structured *****
 
 structured ***** --- utility
+
 utility --- ***** web *****
 
 ***** web ***** --- utility
+
 utility --- automation
 
 automation --- utility
+
 utility --- ***** components / modules
 
 ***** components / modules --- utility
+
 utility --- SDK
 
 SDK --- utility
+
 utility --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- utility
+
 utility --- reliability
 
 reliability --- utility
+
 utility --- portability
 
 portability --- utility
+
 utility --- flexibility
 
 flexibility --- utility
+
 utility --- interoperability
 
 interoperability --- utility
+
 utility --- administrability / monitorability
 
 administrability / monitorability --- utility
+
 utility --- auditability / logability
 
 auditability / logability --- utility
+
 utility --- agent using ***** or many *****
 
 agent using ***** or many ***** --- utility
+
 utility --- ****** as a Service
 
 ****** as a Service --- utility
+
 utility --- transaction
 
 transaction --- utility
+
 utility --- management
 
 management --- utility
+
 utility --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- utility
+
 utility --- *****Ops
 
 *****Ops --- utility
+
 utility --- distributed *****
 
 distributed ***** --- utility
+
 utility --- industrial *****
 
 industrial ***** --- utility
+
 utility --- digital twin of *****
 
 digital twin of ***** --- utility
+
 utility --- processing of ***** signals
 
 processing of ***** signals --- utility
+
 utility --- optimisation
 
 optimisation --- utility
+
 utility --- algebra of *****
 
 algebra of ***** --- utility
+
 utility --- calculus of *****
 
 calculus of ***** --- utility
+
 utility --- applied *****
 
 applied ***** --- utility
+
 utility --- factory of *****
 
 factory of ***** --- utility
+
 utility --- ***** adapter
 
 ***** adapter --- utility
+
 utility --- bridge between ***** and *****
 
 bridge between ***** and ***** --- utility
+
 utility --- ***** controller
 
 ***** controller --- utility
+
 utility --- polymorphic *****
 
 polymorphic ***** --- utility
+
 virtual --- concurrent / parallel
 
 concurrent / parallel --- virtual
+
 virtual --- structured *****
 
 structured ***** --- virtual
+
 virtual --- ***** web *****
 
 ***** web ***** --- virtual
+
 virtual --- automation
 
 automation --- virtual
+
 virtual --- ***** components / modules
 
 ***** components / modules --- virtual
+
 virtual --- SDK
 
 SDK --- virtual
+
 virtual --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- virtual
+
 virtual --- reliability
 
 reliability --- virtual
+
 virtual --- portability
 
 portability --- virtual
+
 virtual --- flexibility
 
 flexibility --- virtual
+
 virtual --- interoperability
 
 interoperability --- virtual
+
 virtual --- administrability / monitorability
 
 administrability / monitorability --- virtual
+
 virtual --- auditability / logability
 
 auditability / logability --- virtual
+
 virtual --- agent using ***** or many *****
 
 agent using ***** or many ***** --- virtual
+
 virtual --- ****** as a Service
 
 ****** as a Service --- virtual
+
 virtual --- transaction
 
 transaction --- virtual
+
 virtual --- management
 
 management --- virtual
+
 virtual --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- virtual
+
 virtual --- *****Ops
 
 *****Ops --- virtual
+
 virtual --- distributed *****
 
 distributed ***** --- virtual
+
 virtual --- industrial *****
 
 industrial ***** --- virtual
+
 virtual --- digital twin of *****
 
 digital twin of ***** --- virtual
+
 virtual --- processing of ***** signals
 
 processing of ***** signals --- virtual
+
 virtual --- optimisation
 
 optimisation --- virtual
+
 virtual --- algebra of *****
 
 algebra of ***** --- virtual
+
 virtual --- calculus of *****
 
 calculus of ***** --- virtual
+
 virtual --- applied *****
 
 applied ***** --- virtual
+
 virtual --- factory of *****
 
 factory of ***** --- virtual
+
 virtual --- ***** adapter
 
 ***** adapter --- virtual
+
 virtual --- bridge between ***** and *****
 
 bridge between ***** and ***** --- virtual
+
 virtual --- ***** controller
 
 ***** controller --- virtual
+
 virtual --- polymorphic *****
 
 polymorphic ***** --- virtual
+
 concurrent / parallel --- structured *****
 
 structured ***** --- concurrent / parallel
+
 concurrent / parallel --- ***** web *****
 
 ***** web ***** --- concurrent / parallel
+
 concurrent / parallel --- automation
 
 automation --- concurrent / parallel
+
 concurrent / parallel --- ***** components / modules
 
 ***** components / modules --- concurrent / parallel
+
 concurrent / parallel --- SDK
 
 SDK --- concurrent / parallel
+
 concurrent / parallel --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- concurrent / parallel
+
 concurrent / parallel --- reliability
 
 reliability --- concurrent / parallel
+
 concurrent / parallel --- portability
 
 portability --- concurrent / parallel
+
 concurrent / parallel --- flexibility
 
 flexibility --- concurrent / parallel
+
 concurrent / parallel --- interoperability
 
 interoperability --- concurrent / parallel
+
 concurrent / parallel --- administrability / monitorability
 
 administrability / monitorability --- concurrent / parallel
+
 concurrent / parallel --- auditability / logability
 
 auditability / logability --- concurrent / parallel
+
 concurrent / parallel --- agent using ***** or many *****
 
 agent using ***** or many ***** --- concurrent / parallel
+
 concurrent / parallel --- ****** as a Service
 
 ****** as a Service --- concurrent / parallel
+
 concurrent / parallel --- transaction
 
 transaction --- concurrent / parallel
+
 concurrent / parallel --- management
 
 management --- concurrent / parallel
+
 concurrent / parallel --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- concurrent / parallel
+
 concurrent / parallel --- *****Ops
 
 *****Ops --- concurrent / parallel
+
 concurrent / parallel --- distributed *****
 
 distributed ***** --- concurrent / parallel
+
 concurrent / parallel --- industrial *****
 
 industrial ***** --- concurrent / parallel
+
 concurrent / parallel --- digital twin of *****
 
 digital twin of ***** --- concurrent / parallel
+
 concurrent / parallel --- processing of ***** signals
 
 processing of ***** signals --- concurrent / parallel
+
 concurrent / parallel --- optimisation
 
 optimisation --- concurrent / parallel
+
 concurrent / parallel --- algebra of *****
 
 algebra of ***** --- concurrent / parallel
+
 concurrent / parallel --- calculus of *****
 
 calculus of ***** --- concurrent / parallel
+
 concurrent / parallel --- applied *****
 
 applied ***** --- concurrent / parallel
+
 concurrent / parallel --- factory of *****
 
 factory of ***** --- concurrent / parallel
+
 concurrent / parallel --- ***** adapter
 
 ***** adapter --- concurrent / parallel
+
 concurrent / parallel --- bridge between ***** and *****
 
 bridge between ***** and ***** --- concurrent / parallel
+
 concurrent / parallel --- ***** controller
 
 ***** controller --- concurrent / parallel
+
 concurrent / parallel --- polymorphic *****
 
 polymorphic ***** --- concurrent / parallel
+
 structured ***** --- ***** web *****
 
 ***** web ***** --- structured *****
+
 structured ***** --- automation
 
 automation --- structured *****
+
 structured ***** --- ***** components / modules
 
 ***** components / modules --- structured *****
+
 structured ***** --- SDK
 
 SDK --- structured *****
+
 structured ***** --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- structured *****
+
 structured ***** --- reliability
 
 reliability --- structured *****
+
 structured ***** --- portability
 
 portability --- structured *****
+
 structured ***** --- flexibility
 
 flexibility --- structured *****
+
 structured ***** --- interoperability
 
 interoperability --- structured *****
+
 structured ***** --- administrability / monitorability
 
 administrability / monitorability --- structured *****
+
 structured ***** --- auditability / logability
 
 auditability / logability --- structured *****
+
 structured ***** --- agent using ***** or many *****
 
 agent using ***** or many ***** --- structured *****
+
 structured ***** --- ****** as a Service
 
 ****** as a Service --- structured *****
+
 structured ***** --- transaction
 
 transaction --- structured *****
+
 structured ***** --- management
 
 management --- structured *****
+
 structured ***** --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- structured *****
+
 structured ***** --- *****Ops
 
 *****Ops --- structured *****
+
 structured ***** --- distributed *****
 
 distributed ***** --- structured *****
+
 structured ***** --- industrial *****
 
 industrial ***** --- structured *****
+
 structured ***** --- digital twin of *****
 
 digital twin of ***** --- structured *****
+
 structured ***** --- processing of ***** signals
 
 processing of ***** signals --- structured *****
+
 structured ***** --- optimisation
 
 optimisation --- structured *****
+
 structured ***** --- algebra of *****
 
 algebra of ***** --- structured *****
+
 structured ***** --- calculus of *****
 
 calculus of ***** --- structured *****
+
 structured ***** --- applied *****
 
 applied ***** --- structured *****
+
 structured ***** --- factory of *****
 
 factory of ***** --- structured *****
+
 structured ***** --- ***** adapter
 
 ***** adapter --- structured *****
+
 structured ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- structured *****
+
 structured ***** --- ***** controller
 
 ***** controller --- structured *****
+
 structured ***** --- polymorphic *****
 
 polymorphic ***** --- structured *****
+
 ***** web ***** --- automation
 
 automation --- ***** web *****
+
 ***** web ***** --- ***** components / modules
 
 ***** components / modules --- ***** web *****
+
 ***** web ***** --- SDK
 
 SDK --- ***** web *****
+
 ***** web ***** --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- ***** web *****
+
 ***** web ***** --- reliability
 
 reliability --- ***** web *****
+
 ***** web ***** --- portability
 
 portability --- ***** web *****
+
 ***** web ***** --- flexibility
 
 flexibility --- ***** web *****
+
 ***** web ***** --- interoperability
 
 interoperability --- ***** web *****
+
 ***** web ***** --- administrability / monitorability
 
 administrability / monitorability --- ***** web *****
+
 ***** web ***** --- auditability / logability
 
 auditability / logability --- ***** web *****
+
 ***** web ***** --- agent using ***** or many *****
 
 agent using ***** or many ***** --- ***** web *****
+
 ***** web ***** --- ****** as a Service
 
 ****** as a Service --- ***** web *****
+
 ***** web ***** --- transaction
 
 transaction --- ***** web *****
+
 ***** web ***** --- management
 
 management --- ***** web *****
+
 ***** web ***** --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- ***** web *****
+
 ***** web ***** --- *****Ops
 
 *****Ops --- ***** web *****
+
 ***** web ***** --- distributed *****
 
 distributed ***** --- ***** web *****
+
 ***** web ***** --- industrial *****
 
 industrial ***** --- ***** web *****
+
 ***** web ***** --- digital twin of *****
 
 digital twin of ***** --- ***** web *****
+
 ***** web ***** --- processing of ***** signals
 
 processing of ***** signals --- ***** web *****
+
 ***** web ***** --- optimisation
 
 optimisation --- ***** web *****
+
 ***** web ***** --- algebra of *****
 
 algebra of ***** --- ***** web *****
+
 ***** web ***** --- calculus of *****
 
 calculus of ***** --- ***** web *****
+
 ***** web ***** --- applied *****
 
 applied ***** --- ***** web *****
+
 ***** web ***** --- factory of *****
 
 factory of ***** --- ***** web *****
+
 ***** web ***** --- ***** adapter
 
 ***** adapter --- ***** web *****
+
 ***** web ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- ***** web *****
+
 ***** web ***** --- ***** controller
 
 ***** controller --- ***** web *****
+
 ***** web ***** --- polymorphic *****
 
 polymorphic ***** --- ***** web *****
+
 automation --- ***** components / modules
 
 ***** components / modules --- automation
+
 automation --- SDK
 
 SDK --- automation
+
 automation --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- automation
+
 automation --- reliability
 
 reliability --- automation
+
 automation --- portability
 
 portability --- automation
+
 automation --- flexibility
 
 flexibility --- automation
+
 automation --- interoperability
 
 interoperability --- automation
+
 automation --- administrability / monitorability
 
 administrability / monitorability --- automation
+
 automation --- auditability / logability
 
 auditability / logability --- automation
+
 automation --- agent using ***** or many *****
 
 agent using ***** or many ***** --- automation
+
 automation --- ****** as a Service
 
 ****** as a Service --- automation
+
 automation --- transaction
 
 transaction --- automation
+
 automation --- management
 
 management --- automation
+
 automation --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- automation
+
 automation --- *****Ops
 
 *****Ops --- automation
+
 automation --- distributed *****
 
 distributed ***** --- automation
+
 automation --- industrial *****
 
 industrial ***** --- automation
+
 automation --- digital twin of *****
 
 digital twin of ***** --- automation
+
 automation --- processing of ***** signals
 
 processing of ***** signals --- automation
+
 automation --- optimisation
 
 optimisation --- automation
+
 automation --- algebra of *****
 
 algebra of ***** --- automation
+
 automation --- calculus of *****
 
 calculus of ***** --- automation
+
 automation --- applied *****
 
 applied ***** --- automation
+
 automation --- factory of *****
 
 factory of ***** --- automation
+
 automation --- ***** adapter
 
 ***** adapter --- automation
+
 automation --- bridge between ***** and *****
 
 bridge between ***** and ***** --- automation
+
 automation --- ***** controller
 
 ***** controller --- automation
+
 automation --- polymorphic *****
 
 polymorphic ***** --- automation
+
 ***** components / modules --- SDK
 
 SDK --- ***** components / modules
+
 ***** components / modules --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- ***** components / modules
+
 ***** components / modules --- reliability
 
 reliability --- ***** components / modules
+
 ***** components / modules --- portability
 
 portability --- ***** components / modules
+
 ***** components / modules --- flexibility
 
 flexibility --- ***** components / modules
+
 ***** components / modules --- interoperability
 
 interoperability --- ***** components / modules
+
 ***** components / modules --- administrability / monitorability
 
 administrability / monitorability --- ***** components / modules
+
 ***** components / modules --- auditability / logability
 
 auditability / logability --- ***** components / modules
+
 ***** components / modules --- agent using ***** or many *****
 
 agent using ***** or many ***** --- ***** components / modules
+
 ***** components / modules --- ****** as a Service
 
 ****** as a Service --- ***** components / modules
+
 ***** components / modules --- transaction
 
 transaction --- ***** components / modules
+
 ***** components / modules --- management
 
 management --- ***** components / modules
+
 ***** components / modules --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- ***** components / modules
+
 ***** components / modules --- *****Ops
 
 *****Ops --- ***** components / modules
+
 ***** components / modules --- distributed *****
 
 distributed ***** --- ***** components / modules
+
 ***** components / modules --- industrial *****
 
 industrial ***** --- ***** components / modules
+
 ***** components / modules --- digital twin of *****
 
 digital twin of ***** --- ***** components / modules
+
 ***** components / modules --- processing of ***** signals
 
 processing of ***** signals --- ***** components / modules
+
 ***** components / modules --- optimisation
 
 optimisation --- ***** components / modules
+
 ***** components / modules --- algebra of *****
 
 algebra of ***** --- ***** components / modules
+
 ***** components / modules --- calculus of *****
 
 calculus of ***** --- ***** components / modules
+
 ***** components / modules --- applied *****
 
 applied ***** --- ***** components / modules
+
 ***** components / modules --- factory of *****
 
 factory of ***** --- ***** components / modules
+
 ***** components / modules --- ***** adapter
 
 ***** adapter --- ***** components / modules
+
 ***** components / modules --- bridge between ***** and *****
 
 bridge between ***** and ***** --- ***** components / modules
+
 ***** components / modules --- ***** controller
 
 ***** controller --- ***** components / modules
+
 ***** components / modules --- polymorphic *****
 
 polymorphic ***** --- ***** components / modules
+
 SDK --- error handling / exceptions / fault tolerance
 
 error handling / exceptions / fault tolerance --- SDK
+
 SDK --- reliability
 
 reliability --- SDK
+
 SDK --- portability
 
 portability --- SDK
+
 SDK --- flexibility
 
 flexibility --- SDK
+
 SDK --- interoperability
 
 interoperability --- SDK
+
 SDK --- administrability / monitorability
 
 administrability / monitorability --- SDK
+
 SDK --- auditability / logability
 
 auditability / logability --- SDK
+
 SDK --- agent using ***** or many *****
 
 agent using ***** or many ***** --- SDK
+
 SDK --- ****** as a Service
 
 ****** as a Service --- SDK
+
 SDK --- transaction
 
 transaction --- SDK
+
 SDK --- management
 
 management --- SDK
+
 SDK --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- SDK
+
 SDK --- *****Ops
 
 *****Ops --- SDK
+
 SDK --- distributed *****
 
 distributed ***** --- SDK
+
 SDK --- industrial *****
 
 industrial ***** --- SDK
+
 SDK --- digital twin of *****
 
 digital twin of ***** --- SDK
+
 SDK --- processing of ***** signals
 
 processing of ***** signals --- SDK
+
 SDK --- optimisation
 
 optimisation --- SDK
+
 SDK --- algebra of *****
 
 algebra of ***** --- SDK
+
 SDK --- calculus of *****
 
 calculus of ***** --- SDK
+
 SDK --- applied *****
 
 applied ***** --- SDK
+
 SDK --- factory of *****
 
 factory of ***** --- SDK
+
 SDK --- ***** adapter
 
 ***** adapter --- SDK
+
 SDK --- bridge between ***** and *****
 
 bridge between ***** and ***** --- SDK
+
 SDK --- ***** controller
 
 ***** controller --- SDK
+
 SDK --- polymorphic *****
 
 polymorphic ***** --- SDK
+
 error handling / exceptions / fault tolerance --- reliability
 
 reliability --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- portability
 
 portability --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- flexibility
 
 flexibility --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- interoperability
 
 interoperability --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- administrability / monitorability
 
 administrability / monitorability --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- auditability / logability
 
 auditability / logability --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- agent using ***** or many *****
 
 agent using ***** or many ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- ****** as a Service
 
 ****** as a Service --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- transaction
 
 transaction --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- management
 
 management --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- *****Ops
 
 *****Ops --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- distributed *****
 
 distributed ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- industrial *****
 
 industrial ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- digital twin of *****
 
 digital twin of ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- processing of ***** signals
 
 processing of ***** signals --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- optimisation
 
 optimisation --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- algebra of *****
 
 algebra of ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- calculus of *****
 
 calculus of ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- applied *****
 
 applied ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- factory of *****
 
 factory of ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- ***** adapter
 
 ***** adapter --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- bridge between ***** and *****
 
 bridge between ***** and ***** --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- ***** controller
 
 ***** controller --- error handling / exceptions / fault tolerance
+
 error handling / exceptions / fault tolerance --- polymorphic *****
 
 polymorphic ***** --- error handling / exceptions / fault tolerance
+
 reliability --- portability
 
 portability --- reliability
+
 reliability --- flexibility
 
 flexibility --- reliability
+
 reliability --- interoperability
 
 interoperability --- reliability
+
 reliability --- administrability / monitorability
 
 administrability / monitorability --- reliability
+
 reliability --- auditability / logability
 
 auditability / logability --- reliability
+
 reliability --- agent using ***** or many *****
 
 agent using ***** or many ***** --- reliability
+
 reliability --- ****** as a Service
 
 ****** as a Service --- reliability
+
 reliability --- transaction
 
 transaction --- reliability
+
 reliability --- management
 
 management --- reliability
+
 reliability --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- reliability
+
 reliability --- *****Ops
 
 *****Ops --- reliability
+
 reliability --- distributed *****
 
 distributed ***** --- reliability
+
 reliability --- industrial *****
 
 industrial ***** --- reliability
+
 reliability --- digital twin of *****
 
 digital twin of ***** --- reliability
+
 reliability --- processing of ***** signals
 
 processing of ***** signals --- reliability
+
 reliability --- optimisation
 
 optimisation --- reliability
+
 reliability --- algebra of *****
 
 algebra of ***** --- reliability
+
 reliability --- calculus of *****
 
 calculus of ***** --- reliability
+
 reliability --- applied *****
 
 applied ***** --- reliability
+
 reliability --- factory of *****
 
 factory of ***** --- reliability
+
 reliability --- ***** adapter
 
 ***** adapter --- reliability
+
 reliability --- bridge between ***** and *****
 
 bridge between ***** and ***** --- reliability
+
 reliability --- ***** controller
 
 ***** controller --- reliability
+
 reliability --- polymorphic *****
 
 polymorphic ***** --- reliability
+
 portability --- flexibility
 
 flexibility --- portability
+
 portability --- interoperability
 
 interoperability --- portability
+
 portability --- administrability / monitorability
 
 administrability / monitorability --- portability
+
 portability --- auditability / logability
 
 auditability / logability --- portability
+
 portability --- agent using ***** or many *****
 
 agent using ***** or many ***** --- portability
+
 portability --- ****** as a Service
 
 ****** as a Service --- portability
+
 portability --- transaction
 
 transaction --- portability
+
 portability --- management
 
 management --- portability
+
 portability --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- portability
+
 portability --- *****Ops
 
 *****Ops --- portability
+
 portability --- distributed *****
 
 distributed ***** --- portability
+
 portability --- industrial *****
 
 industrial ***** --- portability
+
 portability --- digital twin of *****
 
 digital twin of ***** --- portability
+
 portability --- processing of ***** signals
 
 processing of ***** signals --- portability
+
 portability --- optimisation
 
 optimisation --- portability
+
 portability --- algebra of *****
 
 algebra of ***** --- portability
+
 portability --- calculus of *****
 
 calculus of ***** --- portability
+
 portability --- applied *****
 
 applied ***** --- portability
+
 portability --- factory of *****
 
 factory of ***** --- portability
+
 portability --- ***** adapter
 
 ***** adapter --- portability
+
 portability --- bridge between ***** and *****
 
 bridge between ***** and ***** --- portability
+
 portability --- ***** controller
 
 ***** controller --- portability
+
 portability --- polymorphic *****
 
 polymorphic ***** --- portability
+
 flexibility --- interoperability
 
 interoperability --- flexibility
+
 flexibility --- administrability / monitorability
 
 administrability / monitorability --- flexibility
+
 flexibility --- auditability / logability
 
 auditability / logability --- flexibility
+
 flexibility --- agent using ***** or many *****
 
 agent using ***** or many ***** --- flexibility
+
 flexibility --- ****** as a Service
 
 ****** as a Service --- flexibility
+
 flexibility --- transaction
 
 transaction --- flexibility
+
 flexibility --- management
 
 management --- flexibility
+
 flexibility --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- flexibility
+
 flexibility --- *****Ops
 
 *****Ops --- flexibility
+
 flexibility --- distributed *****
 
 distributed ***** --- flexibility
+
 flexibility --- industrial *****
 
 industrial ***** --- flexibility
+
 flexibility --- digital twin of *****
 
 digital twin of ***** --- flexibility
+
 flexibility --- processing of ***** signals
 
 processing of ***** signals --- flexibility
+
 flexibility --- optimisation
 
 optimisation --- flexibility
+
 flexibility --- algebra of *****
 
 algebra of ***** --- flexibility
+
 flexibility --- calculus of *****
 
 calculus of ***** --- flexibility
+
 flexibility --- applied *****
 
 applied ***** --- flexibility
+
 flexibility --- factory of *****
 
 factory of ***** --- flexibility
+
 flexibility --- ***** adapter
 
 ***** adapter --- flexibility
+
 flexibility --- bridge between ***** and *****
 
 bridge between ***** and ***** --- flexibility
+
 flexibility --- ***** controller
 
 ***** controller --- flexibility
+
 flexibility --- polymorphic *****
 
 polymorphic ***** --- flexibility
+
 interoperability --- administrability / monitorability
 
 administrability / monitorability --- interoperability
+
 interoperability --- auditability / logability
 
 auditability / logability --- interoperability
+
 interoperability --- agent using ***** or many *****
 
 agent using ***** or many ***** --- interoperability
+
 interoperability --- ****** as a Service
 
 ****** as a Service --- interoperability
+
 interoperability --- transaction
 
 transaction --- interoperability
+
 interoperability --- management
 
 management --- interoperability
+
 interoperability --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- interoperability
+
 interoperability --- *****Ops
 
 *****Ops --- interoperability
+
 interoperability --- distributed *****
 
 distributed ***** --- interoperability
+
 interoperability --- industrial *****
 
 industrial ***** --- interoperability
+
 interoperability --- digital twin of *****
 
 digital twin of ***** --- interoperability
+
 interoperability --- processing of ***** signals
 
 processing of ***** signals --- interoperability
+
 interoperability --- optimisation
 
 optimisation --- interoperability
+
 interoperability --- algebra of *****
 
 algebra of ***** --- interoperability
+
 interoperability --- calculus of *****
 
 calculus of ***** --- interoperability
+
 interoperability --- applied *****
 
 applied ***** --- interoperability
+
 interoperability --- factory of *****
 
 factory of ***** --- interoperability
+
 interoperability --- ***** adapter
 
 ***** adapter --- interoperability
+
 interoperability --- bridge between ***** and *****
 
 bridge between ***** and ***** --- interoperability
+
 interoperability --- ***** controller
 
 ***** controller --- interoperability
+
 interoperability --- polymorphic *****
 
 polymorphic ***** --- interoperability
+
 administrability / monitorability --- auditability / logability
 
 auditability / logability --- administrability / monitorability
+
 administrability / monitorability --- agent using ***** or many *****
 
 agent using ***** or many ***** --- administrability / monitorability
+
 administrability / monitorability --- ****** as a Service
 
 ****** as a Service --- administrability / monitorability
+
 administrability / monitorability --- transaction
 
 transaction --- administrability / monitorability
+
 administrability / monitorability --- management
 
 management --- administrability / monitorability
+
 administrability / monitorability --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- administrability / monitorability
+
 administrability / monitorability --- *****Ops
 
 *****Ops --- administrability / monitorability
+
 administrability / monitorability --- distributed *****
 
 distributed ***** --- administrability / monitorability
+
 administrability / monitorability --- industrial *****
 
 industrial ***** --- administrability / monitorability
+
 administrability / monitorability --- digital twin of *****
 
 digital twin of ***** --- administrability / monitorability
+
 administrability / monitorability --- processing of ***** signals
 
 processing of ***** signals --- administrability / monitorability
+
 administrability / monitorability --- optimisation
 
 optimisation --- administrability / monitorability
+
 administrability / monitorability --- algebra of *****
 
 algebra of ***** --- administrability / monitorability
+
 administrability / monitorability --- calculus of *****
 
 calculus of ***** --- administrability / monitorability
+
 administrability / monitorability --- applied *****
 
 applied ***** --- administrability / monitorability
+
 administrability / monitorability --- factory of *****
 
 factory of ***** --- administrability / monitorability
+
 administrability / monitorability --- ***** adapter
 
 ***** adapter --- administrability / monitorability
+
 administrability / monitorability --- bridge between ***** and *****
 
 bridge between ***** and ***** --- administrability / monitorability
+
 administrability / monitorability --- ***** controller
 
 ***** controller --- administrability / monitorability
+
 administrability / monitorability --- polymorphic *****
 
 polymorphic ***** --- administrability / monitorability
+
 auditability / logability --- agent using ***** or many *****
 
 agent using ***** or many ***** --- auditability / logability
+
 auditability / logability --- ****** as a Service
 
 ****** as a Service --- auditability / logability
+
 auditability / logability --- transaction
 
 transaction --- auditability / logability
+
 auditability / logability --- management
 
 management --- auditability / logability
+
 auditability / logability --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- auditability / logability
+
 auditability / logability --- *****Ops
 
 *****Ops --- auditability / logability
+
 auditability / logability --- distributed *****
 
 distributed ***** --- auditability / logability
+
 auditability / logability --- industrial *****
 
 industrial ***** --- auditability / logability
+
 auditability / logability --- digital twin of *****
 
 digital twin of ***** --- auditability / logability
+
 auditability / logability --- processing of ***** signals
 
 processing of ***** signals --- auditability / logability
+
 auditability / logability --- optimisation
 
 optimisation --- auditability / logability
+
 auditability / logability --- algebra of *****
 
 algebra of ***** --- auditability / logability
+
 auditability / logability --- calculus of *****
 
 calculus of ***** --- auditability / logability
+
 auditability / logability --- applied *****
 
 applied ***** --- auditability / logability
+
 auditability / logability --- factory of *****
 
 factory of ***** --- auditability / logability
+
 auditability / logability --- ***** adapter
 
 ***** adapter --- auditability / logability
+
 auditability / logability --- bridge between ***** and *****
 
 bridge between ***** and ***** --- auditability / logability
+
 auditability / logability --- ***** controller
 
 ***** controller --- auditability / logability
+
 auditability / logability --- polymorphic *****
 
 polymorphic ***** --- auditability / logability
+
 agent using ***** or many ***** --- ****** as a Service
 
 ****** as a Service --- agent using ***** or many *****
+
 agent using ***** or many ***** --- transaction
 
 transaction --- agent using ***** or many *****
+
 agent using ***** or many ***** --- management
 
 management --- agent using ***** or many *****
+
 agent using ***** or many ***** --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- agent using ***** or many *****
+
 agent using ***** or many ***** --- *****Ops
 
 *****Ops --- agent using ***** or many *****
+
 agent using ***** or many ***** --- distributed *****
 
 distributed ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- industrial *****
 
 industrial ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- digital twin of *****
 
 digital twin of ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- processing of ***** signals
 
 processing of ***** signals --- agent using ***** or many *****
+
 agent using ***** or many ***** --- optimisation
 
 optimisation --- agent using ***** or many *****
+
 agent using ***** or many ***** --- algebra of *****
 
 algebra of ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- calculus of *****
 
 calculus of ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- applied *****
 
 applied ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- factory of *****
 
 factory of ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- ***** adapter
 
 ***** adapter --- agent using ***** or many *****
+
 agent using ***** or many ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- agent using ***** or many *****
+
 agent using ***** or many ***** --- ***** controller
 
 ***** controller --- agent using ***** or many *****
+
 agent using ***** or many ***** --- polymorphic *****
 
 polymorphic ***** --- agent using ***** or many *****
+
 ****** as a Service --- transaction
 
 transaction --- ****** as a Service
+
 ****** as a Service --- management
 
 management --- ****** as a Service
+
 ****** as a Service --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- ****** as a Service
+
 ****** as a Service --- *****Ops
 
 *****Ops --- ****** as a Service
+
 ****** as a Service --- distributed *****
 
 distributed ***** --- ****** as a Service
+
 ****** as a Service --- industrial *****
 
 industrial ***** --- ****** as a Service
+
 ****** as a Service --- digital twin of *****
 
 digital twin of ***** --- ****** as a Service
+
 ****** as a Service --- processing of ***** signals
 
 processing of ***** signals --- ****** as a Service
+
 ****** as a Service --- optimisation
 
 optimisation --- ****** as a Service
+
 ****** as a Service --- algebra of *****
 
 algebra of ***** --- ****** as a Service
+
 ****** as a Service --- calculus of *****
 
 calculus of ***** --- ****** as a Service
+
 ****** as a Service --- applied *****
 
 applied ***** --- ****** as a Service
+
 ****** as a Service --- factory of *****
 
 factory of ***** --- ****** as a Service
+
 ****** as a Service --- ***** adapter
 
 ***** adapter --- ****** as a Service
+
 ****** as a Service --- bridge between ***** and *****
 
 bridge between ***** and ***** --- ****** as a Service
+
 ****** as a Service --- ***** controller
 
 ***** controller --- ****** as a Service
+
 ****** as a Service --- polymorphic *****
 
 polymorphic ***** --- ****** as a Service
+
 transaction --- management
 
 management --- transaction
+
 transaction --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- transaction
+
 transaction --- *****Ops
 
 *****Ops --- transaction
+
 transaction --- distributed *****
 
 distributed ***** --- transaction
+
 transaction --- industrial *****
 
 industrial ***** --- transaction
+
 transaction --- digital twin of *****
 
 digital twin of ***** --- transaction
+
 transaction --- processing of ***** signals
 
 processing of ***** signals --- transaction
+
 transaction --- optimisation
 
 optimisation --- transaction
+
 transaction --- algebra of *****
 
 algebra of ***** --- transaction
+
 transaction --- calculus of *****
 
 calculus of ***** --- transaction
+
 transaction --- applied *****
 
 applied ***** --- transaction
+
 transaction --- factory of *****
 
 factory of ***** --- transaction
+
 transaction --- ***** adapter
 
 ***** adapter --- transaction
+
 transaction --- bridge between ***** and *****
 
 bridge between ***** and ***** --- transaction
+
 transaction --- ***** controller
 
 ***** controller --- transaction
+
 transaction --- polymorphic *****
 
 polymorphic ***** --- transaction
+
 management --- organisation / hierarchy / structure
 
 organisation / hierarchy / structure --- management
+
 management --- *****Ops
 
 *****Ops --- management
+
 management --- distributed *****
 
 distributed ***** --- management
+
 management --- industrial *****
 
 industrial ***** --- management
+
 management --- digital twin of *****
 
 digital twin of ***** --- management
+
 management --- processing of ***** signals
 
 processing of ***** signals --- management
+
 management --- optimisation
 
 optimisation --- management
+
 management --- algebra of *****
 
 algebra of ***** --- management
+
 management --- calculus of *****
 
 calculus of ***** --- management
+
 management --- applied *****
 
 applied ***** --- management
+
 management --- factory of *****
 
 factory of ***** --- management
+
 management --- ***** adapter
 
 ***** adapter --- management
+
 management --- bridge between ***** and *****
 
 bridge between ***** and ***** --- management
+
 management --- ***** controller
 
 ***** controller --- management
+
 management --- polymorphic *****
 
 polymorphic ***** --- management
+
 organisation / hierarchy / structure --- *****Ops
 
 *****Ops --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- distributed *****
 
 distributed ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- industrial *****
 
 industrial ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- digital twin of *****
 
 digital twin of ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- processing of ***** signals
 
 processing of ***** signals --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- optimisation
 
 optimisation --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- algebra of *****
 
 algebra of ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- calculus of *****
 
 calculus of ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- applied *****
 
 applied ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- factory of *****
 
 factory of ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- ***** adapter
 
 ***** adapter --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- bridge between ***** and *****
 
 bridge between ***** and ***** --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- ***** controller
 
 ***** controller --- organisation / hierarchy / structure
+
 organisation / hierarchy / structure --- polymorphic *****
 
 polymorphic ***** --- organisation / hierarchy / structure
+
 *****Ops --- distributed *****
 
 distributed ***** --- *****Ops
+
 *****Ops --- industrial *****
 
 industrial ***** --- *****Ops
+
 *****Ops --- digital twin of *****
 
 digital twin of ***** --- *****Ops
+
 *****Ops --- processing of ***** signals
 
 processing of ***** signals --- *****Ops
+
 *****Ops --- optimisation
 
 optimisation --- *****Ops
+
 *****Ops --- algebra of *****
 
 algebra of ***** --- *****Ops
+
 *****Ops --- calculus of *****
 
 calculus of ***** --- *****Ops
+
 *****Ops --- applied *****
 
 applied ***** --- *****Ops
+
 *****Ops --- factory of *****
 
 factory of ***** --- *****Ops
+
 *****Ops --- ***** adapter
 
 ***** adapter --- *****Ops
+
 *****Ops --- bridge between ***** and *****
 
 bridge between ***** and ***** --- *****Ops
+
 *****Ops --- ***** controller
 
 ***** controller --- *****Ops
+
 *****Ops --- polymorphic *****
 
 polymorphic ***** --- *****Ops
+
 distributed ***** --- industrial *****
 
 industrial ***** --- distributed *****
+
 distributed ***** --- digital twin of *****
 
 digital twin of ***** --- distributed *****
+
 distributed ***** --- processing of ***** signals
 
 processing of ***** signals --- distributed *****
+
 distributed ***** --- optimisation
 
 optimisation --- distributed *****
+
 distributed ***** --- algebra of *****
 
 algebra of ***** --- distributed *****
+
 distributed ***** --- calculus of *****
 
 calculus of ***** --- distributed *****
+
 distributed ***** --- applied *****
 
 applied ***** --- distributed *****
+
 distributed ***** --- factory of *****
 
 factory of ***** --- distributed *****
+
 distributed ***** --- ***** adapter
 
 ***** adapter --- distributed *****
+
 distributed ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- distributed *****
+
 distributed ***** --- ***** controller
 
 ***** controller --- distributed *****
+
 distributed ***** --- polymorphic *****
 
 polymorphic ***** --- distributed *****
+
 industrial ***** --- digital twin of *****
 
 digital twin of ***** --- industrial *****
+
 industrial ***** --- processing of ***** signals
 
 processing of ***** signals --- industrial *****
+
 industrial ***** --- optimisation
 
 optimisation --- industrial *****
+
 industrial ***** --- algebra of *****
 
 algebra of ***** --- industrial *****
+
 industrial ***** --- calculus of *****
 
 calculus of ***** --- industrial *****
+
 industrial ***** --- applied *****
 
 applied ***** --- industrial *****
+
 industrial ***** --- factory of *****
 
 factory of ***** --- industrial *****
+
 industrial ***** --- ***** adapter
 
 ***** adapter --- industrial *****
+
 industrial ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- industrial *****
+
 industrial ***** --- ***** controller
 
 ***** controller --- industrial *****
+
 industrial ***** --- polymorphic *****
 
 polymorphic ***** --- industrial *****
+
 digital twin of ***** --- processing of ***** signals
 
 processing of ***** signals --- digital twin of *****
+
 digital twin of ***** --- optimisation
 
 optimisation --- digital twin of *****
+
 digital twin of ***** --- algebra of *****
 
 algebra of ***** --- digital twin of *****
+
 digital twin of ***** --- calculus of *****
 
 calculus of ***** --- digital twin of *****
+
 digital twin of ***** --- applied *****
 
 applied ***** --- digital twin of *****
+
 digital twin of ***** --- factory of *****
 
 factory of ***** --- digital twin of *****
+
 digital twin of ***** --- ***** adapter
 
 ***** adapter --- digital twin of *****
+
 digital twin of ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- digital twin of *****
+
 digital twin of ***** --- ***** controller
 
 ***** controller --- digital twin of *****
+
 digital twin of ***** --- polymorphic *****
 
 polymorphic ***** --- digital twin of *****
+
 processing of ***** signals --- optimisation
 
 optimisation --- processing of ***** signals
+
 processing of ***** signals --- algebra of *****
 
 algebra of ***** --- processing of ***** signals
+
 processing of ***** signals --- calculus of *****
 
 calculus of ***** --- processing of ***** signals
+
 processing of ***** signals --- applied *****
 
 applied ***** --- processing of ***** signals
+
 processing of ***** signals --- factory of *****
 
 factory of ***** --- processing of ***** signals
+
 processing of ***** signals --- ***** adapter
 
 ***** adapter --- processing of ***** signals
+
 processing of ***** signals --- bridge between ***** and *****
 
 bridge between ***** and ***** --- processing of ***** signals
+
 processing of ***** signals --- ***** controller
 
 ***** controller --- processing of ***** signals
+
 processing of ***** signals --- polymorphic *****
 
 polymorphic ***** --- processing of ***** signals
+
 optimisation --- algebra of *****
 
 algebra of ***** --- optimisation
+
 optimisation --- calculus of *****
 
 calculus of ***** --- optimisation
+
 optimisation --- applied *****
 
 applied ***** --- optimisation
+
 optimisation --- factory of *****
 
 factory of ***** --- optimisation
+
 optimisation --- ***** adapter
 
 ***** adapter --- optimisation
+
 optimisation --- bridge between ***** and *****
 
 bridge between ***** and ***** --- optimisation
+
 optimisation --- ***** controller
 
 ***** controller --- optimisation
+
 optimisation --- polymorphic *****
 
 polymorphic ***** --- optimisation
+
 algebra of ***** --- calculus of *****
 
 calculus of ***** --- algebra of *****
+
 algebra of ***** --- applied *****
 
 applied ***** --- algebra of *****
+
 algebra of ***** --- factory of *****
 
 factory of ***** --- algebra of *****
+
 algebra of ***** --- ***** adapter
 
 ***** adapter --- algebra of *****
+
 algebra of ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- algebra of *****
+
 algebra of ***** --- ***** controller
 
 ***** controller --- algebra of *****
+
 algebra of ***** --- polymorphic *****
 
 polymorphic ***** --- algebra of *****
+
 calculus of ***** --- applied *****
 
 applied ***** --- calculus of *****
+
 calculus of ***** --- factory of *****
 
 factory of ***** --- calculus of *****
+
 calculus of ***** --- ***** adapter
 
 ***** adapter --- calculus of *****
+
 calculus of ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- calculus of *****
+
 calculus of ***** --- ***** controller
 
 ***** controller --- calculus of *****
+
 calculus of ***** --- polymorphic *****
 
 polymorphic ***** --- calculus of *****
+
 applied ***** --- factory of *****
 
 factory of ***** --- applied *****
+
 applied ***** --- ***** adapter
 
 ***** adapter --- applied *****
+
 applied ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- applied *****
+
 applied ***** --- ***** controller
 
 ***** controller --- applied *****
+
 applied ***** --- polymorphic *****
 
 polymorphic ***** --- applied *****
+
 factory of ***** --- ***** adapter
 
 ***** adapter --- factory of *****
+
 factory of ***** --- bridge between ***** and *****
 
 bridge between ***** and ***** --- factory of *****
+
 factory of ***** --- ***** controller
 
 ***** controller --- factory of *****
+
 factory of ***** --- polymorphic *****
 
 polymorphic ***** --- factory of *****
+
 ***** adapter --- bridge between ***** and *****
 
 bridge between ***** and ***** --- ***** adapter
+
 ***** adapter --- ***** controller
 
 ***** controller --- ***** adapter
+
 ***** adapter --- polymorphic *****
 
 polymorphic ***** --- ***** adapter
+
 bridge between ***** and ***** --- ***** controller
 
 ***** controller --- bridge between ***** and *****
+
 bridge between ***** and ***** --- polymorphic *****
 
 polymorphic ***** --- bridge between ***** and *****
+
 ***** controller --- polymorphic *****
 
 polymorphic ***** --- ***** controller
